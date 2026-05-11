@@ -142,13 +142,10 @@
 {"q":"Q1072","t":"heart","s":255,"entity_type":"entity","d":"inner organ for the circulation of blood"}
 {"q":"Q6097","t":"tea","s":254,"entity_type":"entity","d":"brewed drink made from tea leaves"}
 {"q":"Q1489","t":"Mexico City","s":254,"entity_type":"entity","d":"capital and largest city of Mexico","st":1521,"a":["Mexico D.F.","Ciudad de México","City of Mexico","Mexico City, Mexico","CDMX","Mexico"]}
-{"q":"Q2150","t":"January 1","s":254,"entity_type":"entity","d":"day of the year","a":["1 January","January 1st","1st of January","Jan 1","--01-01"]}
 {"q":"Q8434","t":"education","s":254,"entity_type":"entity","d":"transmission of knowledge and skills"}
-{"q":"Q1996","t":"2009","s":252,"entity_type":"entity","d":"year","st":2009,"e":2009,"a":["MMIX","year 2009"]}
 {"q":"Q8502","t":"mountain","s":251,"entity_type":"entity","d":"large natural elevation of the Earth's surface","a":["mount","mt.","mtn."]}
 {"q":"Q677","t":"iron","s":251,"entity_type":"entity","d":"chemical element with symbol Fe and atomic number 26","a":["element 26"]}
 {"q":"Q7802","t":"bread","s":251,"entity_type":"entity","d":"baked food made of flour, water and other ingredients","st":3000,"a":["bun","breads","buns"]}
-{"q":"Q2024","t":"2007","s":249,"entity_type":"entity","d":"calendar year","st":2007,"e":2007,"a":["MMVII"]}
 {"q":"Q316","t":"love","s":248,"entity_type":"entity","d":"strong, positive emotion based on affection","a":["affection"]}
 {"q":"Q9696","t":"John F. Kennedy","s":248,"entity_type":"person","d":"president of the United States from 1961 to 1963 (1917–1963)","st":1917,"e":1963,"a":["Kennedy","Jack Kennedy","President Kennedy","John Fitzgerald Kennedy","J. F. Kennedy","JFK","John Kennedy","John Fitzgerald \"Jack\" Kennedy","JF Kennedy","John F Kennedy"]}
 {"q":"Q3196","t":"fire","s":248,"entity_type":"entity","d":"rapid oxidation of a material; phenomenon that emits light and heat","a":["fires"]}
@@ -158,66 +155,30 @@
 {"q":"Q506","t":"flower","s":247,"entity_type":"entity","d":"sexual reproductive structure found on flowering plants","a":["bloom","flowers","blossom"]}
 {"q":"Q710","t":"Kiribati","s":246,"entity_type":"entity","d":"island sovereign state in the central Pacific Ocean","st":1979,"a":["Republic of Kiribati","ki","KIR"]}
 {"q":"Q1239","t":"Indian Ocean","s":246,"entity_type":"entity","d":"ocean bounded by Africa, Asia, Australia, and Antarctica","a":["Eastern Ocean","Eastern Sea","Indian Sea","Oriental Sea","Oriental Ocean"]}
-{"q":"Q1998","t":"2013","s":246,"entity_type":"entity","d":"year","st":2013,"e":2013,"a":["2013 AD","2013 CE","twenty thirteen","MMXIII","two thousand and thirteen"]}
-{"q":"Q1994","t":"2011","s":246,"entity_type":"entity","d":"year","st":2011,"e":2011,"a":["MMXI","2011 CE","2011 AD","twenty eleven","two thousand and eleven"]}
 {"q":"Q577","t":"year","s":245,"entity_type":"entity","d":"the orbital period of the Earth: the estimated period of time for the Earth's orbit around the Sun and observed at a fixed geographic point (averaging 365.24 days); base later modified to define or adjust various calendars","a":["anno","annum"]}
-{"q":"Q2156","t":"January 3","s":245,"entity_type":"entity","d":"day of the year","a":["3 January","January 3rd","3rd of January","Jan 3"]}
-{"q":"Q2151","t":"January 2","s":245,"entity_type":"entity","d":"day of the year","a":["2 January","January 2nd","2nd of January","Jan 2"]}
 {"q":"Q1492","t":"Barcelona","s":245,"entity_type":"entity","d":"city in Catalonia, Spain","a":["BCN","B'na","Barcelona, Spain","Barcelona, Catalonia","Barcelona City","City of Barcelona"]}
 {"q":"Q5686","t":"Charles Dickens","s":244,"entity_type":"person","d":"English novelist and social critic (1812–1870)","st":1812,"e":1870,"a":["Dickens","Charles John Huffam Dickens","Boz","C. Dickens"]}
 {"q":"Q8739","t":"Archimedes","s":244,"entity_type":"person","d":"Greek mathematician and physicist (c. 287 – c. 212 BC)","st":287,"e":212,"a":["Archimedes of Syracuse"]}
-{"q":"Q2019","t":"2005","s":244,"entity_type":"entity","d":"year","a":["MMV"]}
 {"q":"Q585","t":"Oslo","s":241,"entity_type":"entity","d":"capital city of Norway","st":1048,"a":["Christiania","Kristiania","NOOSL","Oslo, Norway"]}
 {"q":"Q780","t":"chicken","s":241,"entity_type":"entity","d":"domesticated bird kept by humans primarily as a food source","a":["Gallus gallus domesticus","chickens","vistas"]}
-{"q":"Q2002","t":"2015","s":241,"entity_type":"entity","d":"year","st":2015,"e":2015,"a":["2015 AD","2015 CE","twenty fifteen","two thousand and fifteen","MMXV"]}
 {"q":"Q173","t":"Alabama","s":240,"entity_type":"entity","d":"state of the United States of America","st":1819,"a":["State of Alabama","AL","Heart of Dixie","The Yellowhammer State","Ala.","Ala","Bama","US-AL","Yellowhammer State"]}
 {"q":"Q7813","t":"Universal Declaration of Human Rights","s":239,"entity_type":"entity","d":"declaration adopted in 1948 by the United Nations General Assembly","st":1948,"a":["UDHR"]}
-{"q":"Q2255","t":"January 13","s":239,"entity_type":"entity","d":"day of the year","a":["13 January","January 13th","13th of January","Jan 13"]}
-{"q":"Q2332","t":"February 14","s":239,"entity_type":"entity","d":"day of the year","a":["14th of February","14 February","February 14th","Feb 14","Valentines day"]}
-{"q":"Q2312","t":"February 1","s":239,"entity_type":"entity","d":"day of the year","a":["1 February","February 1st","1st of February","Feb 1"]}
 {"q":"Q1204","t":"Illinois","s":238,"entity_type":"entity","d":"state of the United States of America","st":1818,"a":["Illinois, United States","IL","Ill.","Ills.","State of Illinois","The Land of Lincoln","The Prairie State","Land of Lincoln","Prairie State","Lincoln State","US-IL"]}
-{"q":"Q2336","t":"February 12","s":238,"entity_type":"entity","d":"day of the year","a":["12 February","February 12th","12th of February","Feb 12"]}
-{"q":"Q2238","t":"January 9","s":237,"entity_type":"entity","d":"day of the year","a":["9 January","January 9th","9th of January","Jan 9"]}
-{"q":"Q2257","t":"January 14","s":237,"entity_type":"entity","d":"day of the year","a":["14 January","January 14th","Jan 14","14th of January"]}
 {"q":"Q11424","t":"film","s":237,"entity_type":"entity","d":"sequence of images that give the impression of movement, stored on film stock","a":["movie","motion picture","cinematic work","films","flick","moving picture","cinema","motion pictures"]}
-{"q":"Q2341","t":"February 17","s":237,"entity_type":"entity","d":"day of the year","a":["17 February","February 17th","17th of February","Feb 17"]}
 {"q":"Q3616","t":"Tehran","s":236,"entity_type":"entity","d":"capital city of Iran","st":1794,"a":["Teheran","Ṭihrán","Tehran"]}
-{"q":"Q2243","t":"January 10","s":236,"entity_type":"entity","d":"day of the year","a":["10 January","January 10th","10th of January","Jan 10"]}
-{"q":"Q2323","t":"February 8","s":236,"entity_type":"entity","d":"day of the year","a":["8 February","February 8th","8th of February","Feb 8"]}
-{"q":"Q2319","t":"February 5","s":236,"entity_type":"entity","d":"day of the year","a":["5 February","February 5th","5th of February","Feb 5"]}
-{"q":"Q2351","t":"February 22","s":236,"entity_type":"entity","d":"day of the year","a":["22 February","February 22nd","22nd of February","Feb 22"]}
-{"q":"Q2340","t":"February 19","s":236,"entity_type":"entity","d":"day of the year","a":["19 February","February 19th","19th of February","Feb 19"]}
-{"q":"Q2342","t":"February 16","s":236,"entity_type":"entity","d":"day of the year","a":["16 February","February 16th","16th of February","Feb 16"]}
 {"q":"Q11016","t":"technology","s":235,"entity_type":"entity","d":"making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization, or tools and techniques so created","a":["tech","technologies","technological science","technological sciences","technicology","technology sector"]}
-{"q":"Q2396","t":"March 4","s":235,"entity_type":"entity","d":"day of the year","a":["4 March","March 4th","4th of March","Mar 4"]}
-{"q":"Q2287","t":"January 30","s":235,"entity_type":"entity","d":"day of the year","a":["30 January","January 30th","30th of January","Jan 30"]}
-{"q":"Q2276","t":"January 23","s":235,"entity_type":"entity","d":"day of the year","a":["23 January","January 23rd","23rd of January","Jan 23"]}
 {"q":"Q7386","t":"Formicidae","s":235,"entity_type":"taxon","d":"family of insects","st":1400,"a":["ant","ants","ant family"]}
-{"q":"Q2320","t":"February 6","s":235,"entity_type":"entity","d":"day of the year","a":["6 February","February 6th","6th of February","Feb 6"]}
-{"q":"Q2361","t":"February 27","s":235,"entity_type":"entity","d":"day of the year","a":["27 February","February 27th","27th of February","Feb 27"]}
-{"q":"Q2359","t":"February 26","s":235,"entity_type":"entity","d":"day of the year","a":["26 February","February 26th","26th of February","Feb 26"]}
-{"q":"Q2506","t":"April 6","s":235,"entity_type":"entity","d":"day of the year","a":["6 April","April 6th","6th of April","Apr 6","6th April"]}
-{"q":"Q25245","t":"2016","s":235,"entity_type":"entity","d":"year","a":["MMXVI","2016 AD","2016 CE","twenty sixteen","two thousand and sixteen"]}
-{"q":"Q2289","t":"January 31","s":234,"entity_type":"entity","d":"day of the year","a":["31 January","January 31st","31st of January","Jan 31"]}
-{"q":"Q2286","t":"January 29","s":234,"entity_type":"entity","d":"day of the year","a":["29 January","January 29th","29th of January","Jan 29"]}
-{"q":"Q2279","t":"January 25","s":234,"entity_type":"entity","d":"day of the year","a":["25 January","January 25th","25th of January","Jan 25"]}
 {"q":"Q556","t":"hydrogen","s":234,"entity_type":"entity","d":"chemical element with symbol H and atomic number 1","a":["element 1"]}
-{"q":"Q2322","t":"February 7","s":234,"entity_type":"entity","d":"day of the year","a":["7 February","February 7th","7th of February","Feb 7"]}
-{"q":"Q2362","t":"February 28","s":234,"entity_type":"entity","d":"day of the year","a":["28 February","February 28th","28th of February","Feb 28"]}
 {"q":"Q19939","t":"tiger","s":233,"entity_type":"taxon","d":"species of big cat","a":["Panthera tigris","tigress","tigers","P. tigris"]}
 {"q":"Q1400","t":"Pennsylvania","s":233,"entity_type":"entity","d":"state of the United States of America","st":1787,"a":["Commonwealth of Pennsylvania","PA","Keystone State","Penna.","Pennsylvania, United States","State of Pennsylvania","Pa.","US-PA"]}
-{"q":"Q2264","t":"January 17","s":233,"entity_type":"entity","d":"day of the year","a":["17 January","January 17th","17th of January","Jan 17"]}
-{"q":"Q2507","t":"April 5","s":233,"entity_type":"entity","d":"day of the year","a":["5 April","April 5th","5th of April","Apr 5"]}
 {"q":"Q8445","t":"marriage","s":232,"entity_type":"entity","d":"social union or legal contract between people called spouses that creates kinship","a":["matrimony","wedlock"]}
 {"q":"Q7368","t":"sheep","s":231,"entity_type":"entity","d":"domesticated ruminant bred for meat, wool, and milk"}
 {"q":"Q513","t":"Mount Everest","s":231,"entity_type":"entity","d":"Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas","a":["Everest","Mount Qomolangma","Mount Sagarmatha","Qomolangma","Chomolangma","Chomolungma","Qomolangma Feng","Sagarmāthā","Zhumulangma","Sagarmatha","Mount Chomolubutangma","Mt. Everest","Mt Everest","Himalaya Peak XV","Peak XV","World highest peak"]}
-{"q":"Q2403","t":"March 15","s":231,"entity_type":"entity","d":"day of the year","a":["15 March","March 15th","15th of March","Mar 15"]}
 {"q":"Q1311","t":"winter","s":230,"entity_type":"entity","d":"one of the Earth's four temperate seasons, occurring between autumn and spring; one of the 8 Sámi seasons","a":["winter season","wintertime","wintertime season"]}
 {"q":"Q23442","t":"island","s":230,"entity_type":"entity","d":"piece of sub-continental land completely surrounded by water","a":["isle","islands"]}
 {"q":"Q3947","t":"house","s":230,"entity_type":"entity","d":"building usually intended for living in","a":["accommodation","living house"]}
 {"q":"Q1770","t":"Tallinn","s":229,"entity_type":"entity","d":"capital and most populous city of Estonia","a":["Reval","Revel","Rewel","Kolywan","Lyndanisse","Lindanäs","Reuel","Tallinn, Estonia"]}
 {"q":"Q1312","t":"spring","s":229,"entity_type":"entity","d":"one of the Earth's four temperate seasons, occurring between winter and summer; one of the 8 Sámi seasons","a":["springtime","springtime season","spring season"]}
-{"q":"Q2424","t":"March 19","s":229,"entity_type":"entity","d":"day of the year","a":["19 March","March 19th","19th of March","Mar 19"]}
 {"q":"Q5816","t":"Mao Zedong","s":229,"entity_type":"person","d":"1st chairman of the Chinese Communist Party and founder of the People's Republic of China (1893–1976)","st":1893,"e":1976,"a":["Mao Tse-tung","Mao Ze Dong","Maozedong","Tse Toung Mao","Mau Tzerdong","Máo Zédōng","Mau Zeh-ton","Máu Zéh-ton","Mô Chhe̍t-tûng","Mo Chhet-tung","Mao² Tsê²-tung¹","Mou Zaak-dung","Mo Tek-tong","Mô͘ Te̍k-tong","Moo Tik-tang","Môo Ti̍k-tang","Rùnzhī","Jun-chih","Jeon-zi","Máo Zhǔxí","Mao","Chairman Mao","Mau Zerdong","Mao Zédong","Mouh Jaahk-dung","Lun-chi","Mao Runzhi","Mao Jun-chih","Máo Rùnzhī","Chairman Mao Zedong","Mao Tsê-tung"]}
 {"q":"Q7362","t":"ear","s":229,"entity_type":"entity","d":"organ that detects sound; organ of hearing and balance","a":["ears"]}
 {"q":"Q19837","t":"Steve Jobs","s":228,"entity_type":"person","d":"American entrepreneur; co-founder of Apple Inc. (1955–2011)","st":1955,"e":2011,"a":["Steven Paul Jobs","Steven Jobs","Abdul Lateef Jandali","T. Lateef"]}
@@ -225,32 +186,13 @@
 {"q":"Q10693","t":"periodic table","s":228,"entity_type":"entity","d":"table systematically placing elements based on atomic number and recurrent properties","st":1869,"a":["Mendeleev's periodic table","periodic table of chemical elements","periodic table of elements","the periodic table","periodic classification of elements"]}
 {"q":"Q7191","t":"Nobel Prize","s":228,"entity_type":"entity","d":"set of annual international awards, primarily 5 established in 1895 by Alfred Nobel","st":1901,"a":["Nobel"]}
 {"q":"Q771","t":"Massachusetts","s":228,"entity_type":"entity","d":"state of the United States of America","st":1788,"a":["Bay State","Commonwealth of Massachusetts","MA","Mass.","US-MA","The Commonwealth of Massachusetts","Massachusetts, United States","State of Massachusetts","The Bay State","Massachusetts (U.S. state)","6th State","Taxachusetts","Massachusetts state","Masshole Commonwealth","Commonwealth of MA"]}
-{"q":"Q2457","t":"March 27","s":228,"entity_type":"entity","d":"day of the year","a":["27 March","March 27th","27th of March","Mar 27"]}
-{"q":"Q2456","t":"March 26","s":228,"entity_type":"entity","d":"day of the year","a":["26 March","March 26th","26th of March","Mar 26"]}
-{"q":"Q2445","t":"March 23","s":228,"entity_type":"entity","d":"Day of the year","a":["23 March","March 23rd","23rd of March","Mar 23"]}
-{"q":"Q2435","t":"March 22","s":228,"entity_type":"entity","d":"day of the year","a":["22 March","Mar 22","3/22","March 22nd","22nd of March"]}
-{"q":"Q2397","t":"March 10","s":228,"entity_type":"entity","d":"day of the year","a":["10 March","March 10th","10th of March","Mar 10"]}
-{"q":"Q1988","t":"2001","s":228,"entity_type":"entity","d":"year","a":["MMI"]}
-{"q":"Q2458","t":"March 28","s":227,"entity_type":"entity","d":"day of the year","a":["28 March","March 28th","28th of March","Mar 28"]}
-{"q":"Q2400","t":"March 13","s":227,"entity_type":"entity","d":"day of the year","a":["13 March","March 13th","13th of March","Mar 13"]}
-{"q":"Q2523","t":"April 19","s":227,"entity_type":"entity","d":"day of the year","a":["19 April","April 19th","19th of April","Apr 19"]}
-{"q":"Q2859","t":"September 1","s":226,"entity_type":"entity","d":"day of the year","a":["1 September","September 1st","1st of September","Sep 1"]}
-{"q":"Q2997","t":"November 1","s":226,"entity_type":"entity","d":"day of the year","a":["November 1st","1st of November","1 November","Nov 1"]}
-{"q":"Q2427","t":"March 20","s":226,"entity_type":"entity","d":"day of the year","a":["20 March","March 20th","20th of March","Mar 20"]}
-{"q":"Q2419","t":"March 17","s":226,"entity_type":"entity","d":"day of the year","a":["17 March","March 17th","17th of March","Mar 17"]}
-{"q":"Q2398","t":"March 11","s":226,"entity_type":"entity","d":"day of the year","a":["11 March","March 11th","11th of March","Mar 11"]}
 {"q":"Q9128","t":"light","s":226,"entity_type":"entity","d":"electromagnetic radiation at or near visible wavelengths","a":["lights","near-visible light","near-visible spectrum","near-visible electromagnetic radiation","light wave"]}
-{"q":"Q2700","t":"July 1","s":226,"entity_type":"entity","d":"day of the year","a":["July 1st","1st of July","1 July","Jul 1"]}
 {"q":"Q1415","t":"Indiana","s":226,"entity_type":"entity","d":"state of the United States of America","st":1816,"a":["IN","Indiana, United States","State of Indiana","US-IN","Hoosier State","Ind."]}
 {"q":"Q7150","t":"ecology","s":226,"entity_type":"entity","d":"scientific study of the relationships between living organisms","a":["ecological science"]}
-{"q":"Q2525","t":"April 21","s":226,"entity_type":"entity","d":"day of the year","a":["21 April","April 21st","21st of April","Apr 21"]}
 {"q":"Q11451","t":"agriculture","s":226,"entity_type":"entity","d":"cultivation of plants and animals to provide useful products","st":8000,"a":["plant agriculture"]}
 {"q":"Q1404","t":"Uetersen","s":225,"entity_type":"entity","d":"German town in Schleswig-Holstein"}
-{"q":"Q2460","t":"March 30","s":225,"entity_type":"entity","d":"day of the year","a":["30 March","March 30th","30th of March","Mar 30"]}
 {"q":"Q16867","t":"Edgar Allan Poe","s":225,"entity_type":"person","d":"American writer and literary critic (1809–1849)","st":1809,"e":1849,"a":["Poe","Edgar Poe","E. A. Poe","Edgar A. Poe","Quarles"]}
 {"q":"Q753","t":"copper","s":225,"entity_type":"entity","d":"chemical element with symbol Cu and atomic number 29","a":["Cu","element 29","29Cu","Tatum-T","Paragard T 380A","CU-7"]}
-{"q":"Q2536","t":"April 30","s":225,"entity_type":"entity","d":"day of the year","a":["30 April","April 30th","30th of April","Apr 30"]}
-{"q":"Q2500","t":"April 14","s":225,"entity_type":"entity","d":"day of the year","a":["14 April","April 14th","14th of April","Apr 14"]}
 {"q":"Q994","t":"Tbilisi","s":224,"entity_type":"entity","d":"capital and the largest city of Georgia (country)","st":455,"a":["Tiflis","Tpilisi","Tbilissi","Tpilissi","Tbilisi, Georgia"]}
 {"q":"Q472","t":"Sofia","s":224,"entity_type":"entity","d":"capital city of Bulgaria","a":["Serdica","Sredets","Sredez","Sofija"]}
 {"q":"Q1773","t":"Riga","s":224,"entity_type":"entity","d":"capital and largest city of Latvia","st":1201,"a":["Rīga","Ryga","Rige","Riia","Rija","Rīgõ"]}
@@ -259,192 +201,58 @@
 {"q":"Q687","t":"Molière","s":224,"entity_type":"person","d":"French playwright and actor (1622–1673)","st":1622,"e":1673}
 {"q":"Q1780","t":"Bratislava","s":224,"entity_type":"city","d":"capital city of Slovakia","st":907,"a":["Pressburg","Presburg"]}
 {"q":"Q788","t":"Arctic Ocean","s":224,"entity_type":"entity","d":"smallest, shallowest, coldest, and northernmost of the world's major oceans","a":["Northern Ocean","Arctic Sea","Tartar Sea","Tartar Ocean","Sea of Tartary","Ocean of Tartary","Tartaric Sea","Glacial Sea","Icy Ocean","Icy Sea","Yce Sea","Ice Sea","Ice Ocean","the Northern Ocean"]}
-{"q":"Q2519","t":"April 16","s":224,"entity_type":"entity","d":"day of the year","a":["16 April","April 16th","16th of April","Apr 16"]}
-{"q":"Q2498","t":"April 13","s":224,"entity_type":"entity","d":"day of the year","a":["13 April","April 13th","13th of April","Apr 13"]}
-{"q":"Q2501","t":"April 11","s":224,"entity_type":"entity","d":"day of the year","a":["11 April","April 11th","11th of April","Apr 11"]}
-{"q":"Q2930","t":"October 5","s":223,"entity_type":"entity","d":"day of the year","a":["October 5th","5th of October","5 October","Oct 5"]}
-{"q":"Q3016","t":"November 29","s":223,"entity_type":"entity","d":"day of the year","a":["29 November","November 29th","29th of November","Nov 29"]}
-{"q":"Q3024","t":"November 20","s":223,"entity_type":"entity","d":"day of the year","a":["20 November","November 20th","20th of November","Nov 20"]}
 {"q":"Q4617","t":"Corbin Bleu","s":223,"entity_type":"person","d":"American actor (born 1989)","st":1989}
-{"q":"Q2788","t":"August 1","s":223,"entity_type":"entity","d":"day of the year","a":["August 1st","1st of August","1 August","Aug 1"]}
 {"q":"Q11812","t":"Thomas Jefferson","s":222,"entity_type":"person","d":"president of the United States from 1801 to 1809 (1743–1826)","st":1743,"e":1826,"a":["President Jefferson","T. Jefferson"]}
-{"q":"Q2952","t":"October 28","s":222,"entity_type":"entity","d":"day of the year","a":["October 28th","28th of October","28 October","Oct 28"]}
-{"q":"Q2991","t":"November 9","s":222,"entity_type":"entity","d":"day of the year","a":["November 9th","9th of November","9 November","Nov 9"]}
-{"q":"Q3025","t":"November 22","s":222,"entity_type":"entity","d":"day of the year","a":["22 November","November 22nd","22nd of November","Nov 22"]}
 {"q":"Q1581","t":"Missouri","s":222,"entity_type":"entity","d":"state of the United States of America","st":1821,"a":["MO","State of Missouri","The Show Me State","Missouri, United States","Mo.","US-MO"]}
-{"q":"Q2698","t":"July 4","s":222,"entity_type":"entity","d":"date","a":["July 4th","4th of July","4 July","Jul 4"]}
 {"q":"Q18498","t":"Canis lupus","s":222,"entity_type":"taxon","d":"species of mammal","a":["timber wolf","gray wolf","grey wolf","timber wolves","gray wolves","grey wolves","wolf"]}
-{"q":"Q1985","t":"2000","s":222,"entity_type":"entity","d":"calendar year","a":["MM","two thousand","the second millenium"]}
 {"q":"Q1223","t":"Washington","s":221,"entity_type":"entity","d":"state of the United States of America","st":1889,"a":["Evergreen State","WA","State of Washington","Washington State","Washington (state)","US-WA"]}
-{"q":"Q2857","t":"September 2","s":221,"entity_type":"entity","d":"day of the year","a":["September 2nd","2nd of September","2 September","Sep 2"]}
-{"q":"Q2894","t":"September 17","s":221,"entity_type":"entity","d":"day of the year","a":["September 17th","17th of September","17 September","Sep 17"]}
-{"q":"Q2964","t":"October 18","s":221,"entity_type":"entity","d":"day of the year","a":["October 18th","18th of October","18 October","Oct 18"]}
-{"q":"Q2989","t":"November 7","s":221,"entity_type":"entity","d":"day of the year","a":["November 7th","7th of November","7 November","Nov 7"]}
-{"q":"Q3020","t":"November 25","s":221,"entity_type":"entity","d":"day of the year","a":["25 November","November 25th","25th of November","Nov 25"]}
-{"q":"Q2984","t":"November 13","s":221,"entity_type":"entity","d":"day of the year","a":["November 13th","13th of November","13 November","Nov 13"]}
 {"q":"Q7204","t":"Middle East","s":221,"entity_type":"entity","d":"geopolitical region encompassing Egypt and most of Western Asia, including Iran","a":["Mid East","Mideast"]}
-{"q":"Q2562","t":"May 15","s":221,"entity_type":"entity","d":"day of the year","a":["15 May","May 15th","15th of May"]}
 {"q":"Q11379","t":"energy","s":221,"entity_type":"entity","d":"quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light"}
 {"q":"Q383541","t":"Basshunter","s":221,"entity_type":"person","d":"Swedish singer, record producer, and DJ","st":1984,"a":["Jonas Erik Altberg","Jonas Altberg","BassHunter"]}
 {"q":"Q1612","t":"Arkansas","s":221,"entity_type":"entity","d":"state of the United States of America","st":1836,"a":["AR","Ark.","State of Arkansas","The Natural State","Arkansas, United States","AR-kən-saw","ARkənsaw","Arkensaw","Arkansaw","US-AR"]}
 {"q":"Q7275","t":"state","s":220,"entity_type":"entity","d":"organised community living under a system of government; either a sovereign state, constituent state, or federated state"}
 {"q":"Q1183","t":"Puerto Rico","s":220,"entity_type":"entity","d":"unincorporated territory of the United States of America","st":1898,"a":["Free Associated State of Puerto Rico","Porto Rico","Territory of Puerto Rico","Commonwealth of Puerto Rico","Island of Enchantment","Borikén","Borinquen","Boriquén","Isle of Enchantment","Territory of Porto Rico"]}
 {"q":"Q339","t":"Pluto","s":220,"entity_type":"entity","d":"dwarf planet in the Solar System","a":["(134340) Pluto","Sol j"]}
-{"q":"Q2924","t":"October 8","s":220,"entity_type":"entity","d":"day of the year","a":["October 8th","8th of October","8 October","Oct 8"]}
-{"q":"Q2926","t":"October 7","s":220,"entity_type":"entity","d":"day of the year","a":["October 7th","7th of October","7 October","Oct 7"]}
-{"q":"Q2951","t":"October 29","s":220,"entity_type":"entity","d":"day of the year","a":["October 29th","29th of October","29 October","Oct 29"]}
-{"q":"Q2992","t":"November 6","s":220,"entity_type":"entity","d":"day of the year","a":["November 6th","6th of November","6 November","Nov 6"]}
-{"q":"Q3029","t":"November 16","s":220,"entity_type":"entity","d":"day of the year","a":["16 November","November 16th","16th of November","Nov 16"]}
 {"q":"Q1522","t":"New Mexico","s":220,"entity_type":"entity","d":"state of the United States of America","st":1912,"a":["NM","New Mexico, United States","State of New Mexico","N. Mex.","N.M.","Land of Enchantment","US-NM"]}
 {"q":"Q1494","t":"Mississippi","s":220,"entity_type":"entity","d":"state of the United States of America","st":1817,"a":["MS","State of Mississippi","Mississippi, United States","Miss.","US-MS","Mississippi (state)","Magnolia State"]}
-{"q":"Q2547","t":"May 3","s":220,"entity_type":"entity","d":"date","a":["3 May","May 3rd","3rd of May"]}
-{"q":"Q2583","t":"May 23","s":220,"entity_type":"entity","d":"date","a":["23 May","May 23rd","23rd of May"]}
-{"q":"Q2575","t":"May 17","s":220,"entity_type":"entity","d":"day of the year","a":["17 May","May 17th","17th of May"]}
-{"q":"Q2659","t":"June 29","s":220,"entity_type":"entity","d":"day of the year","a":["June 29th","29th of June","29 June","Jun 29"]}
-{"q":"Q2662","t":"June 25","s":220,"entity_type":"entity","d":"day of the year","a":["June 25th","25th of June","25 June","Jun 25"]}
-{"q":"Q2670","t":"June 18","s":220,"entity_type":"entity","d":"day of the year","a":["June 18th","18th of June","18 June","Jun 18"]}
-{"q":"Q2697","t":"July 2","s":220,"entity_type":"entity","d":"date","a":["July 2nd","2nd of July","2 July","Jul 2"]}
 {"q":"Q702","t":"Federated States of Micronesia","s":220,"entity_type":"entity","d":"island sovereign state in Oceania","st":1947,"a":["Micronesia","FSM","fm","Fed. Sts. Micronesia","Fed. Sts. of Micronesia","Federated States of Micronesia, FSM"]}
-{"q":"Q2301","t":"December 8","s":220,"entity_type":"entity","d":"day of the year","a":["8 December","December 8th","8th of December","Dec 8"]}
-{"q":"Q2800","t":"December 27","s":220,"entity_type":"entity","d":"day of the year","a":["December 27th","27th of December","27 December","Dec 27"]}
-{"q":"Q2413","t":"December 17","s":220,"entity_type":"entity","d":"day of the year","a":["17 December","December 17th","17th of December","Dec 17"]}
-{"q":"Q2302","t":"December 10","s":220,"entity_type":"entity","d":"day of the year","a":["10 December","December 10th","10th of December","Dec 10"]}
-{"q":"Q2774","t":"August 15","s":220,"entity_type":"entity","d":"date","a":["August 15th","15th of August","15 August","Aug 15","Assumption of Mary"]}
-{"q":"Q2883","t":"September 28","s":219,"entity_type":"entity","d":"day of the year","a":["September 28th","28th of September","28 September","Sep 28"]}
-{"q":"Q2889","t":"September 22","s":219,"entity_type":"entity","d":"day of the year","a":["September 22nd","22nd of September","22 September","Sep 22"]}
-{"q":"Q2893","t":"September 18","s":219,"entity_type":"entity","d":"day of the year","a":["September 18th","18th of September","18 September","Sep 18","18 Sep","18.09","09.18","18th September"]}
-{"q":"Q2928","t":"October 6","s":219,"entity_type":"entity","d":"day of the year","a":["October 6th","6th of October","6 October","Oct 6"]}
-{"q":"Q2953","t":"October 26","s":219,"entity_type":"entity","d":"day of the year","a":["October 26th","26th of October","26 October","Oct 26"]}
-{"q":"Q2574","t":"May 16","s":219,"entity_type":"entity","d":"day of the year","a":["16 May","May 16th","16th of May"]}
-{"q":"Q2664","t":"June 27","s":219,"entity_type":"entity","d":"day of the year","a":["June 27th","27th of June","27 June","Jun 27"]}
-{"q":"Q2663","t":"June 22","s":219,"entity_type":"entity","d":"day of the year","a":["June 22nd","22nd of June","22 June","Jun 22"]}
-{"q":"Q2669","t":"June 19","s":219,"entity_type":"entity","d":"day of the year","a":["June 19th","19th of June","19 June","Jun 19"]}
 {"q":"Q1354","t":"Dhaka","s":219,"entity_type":"entity","d":"capital and largest city of Bangladesh","a":["Dacca","Dhaka City"]}
-{"q":"Q2676","t":"December 23","s":219,"entity_type":"entity","d":"day of the year","a":["23 December","December 23rd","23rd of December","Dec 23"]}
-{"q":"Q1987","t":"2002","s":219,"entity_type":"entity","d":"calendar year","a":["MMII"]}
-{"q":"Q2860","t":"September 3","s":218,"entity_type":"entity","d":"day of the year","a":["September 3rd","3rd of September","3 September","Sep 3"]}
-{"q":"Q2890","t":"September 24","s":218,"entity_type":"entity","d":"day of the year","a":["September 24th","24th of September","24 September","Sep 24"]}
-{"q":"Q2847","t":"September 14","s":218,"entity_type":"entity","d":"day of the year","a":["September 14th","14th of September","14 September","Sep 14"]}
 {"q":"Q30875","t":"Oscar Wilde","s":218,"entity_type":"person","d":"Irish poet, playwright, and aesthete (1854-1900)","st":1854,"e":1900,"a":["Oscar O'Flahertie Wills Wilde","Oscar Fingal O'Flahertie Wills Wilde","Oscar Fingal O'Fflahertie Wills Wilde","Oscar O'Fflahertie Wills Wilde"]}
-{"q":"Q2955","t":"October 24","s":218,"entity_type":"entity","d":"day of the year","a":["24 October","October 24th","24th of October","Oct 24"]}
-{"q":"Q2920","t":"October 12","s":218,"entity_type":"entity","d":"day of the year","a":["October 12th","12th of October","12 October","Oct 12"]}
-{"q":"Q2927","t":"October 11","s":218,"entity_type":"entity","d":"day of the year","a":["October 11th","11 October","11th of October","Oct 11"]}
-{"q":"Q3023","t":"November 21","s":218,"entity_type":"entity","d":"day of the year","a":["21 November","November 21st","21st of November","Nov 21"]}
 {"q":"Q1615","t":"Neil Armstrong","s":218,"entity_type":"person","d":"American astronaut and lunar explorer (1930–2012)","st":1930,"e":2012}
-{"q":"Q2579","t":"May 20","s":218,"entity_type":"entity","d":"date","a":["20 May","May 20th","20th of May"]}
-{"q":"Q2561","t":"May 14","s":218,"entity_type":"entity","d":"date","a":["14 May","May 14th","14th of May"]}
-{"q":"Q2627","t":"June 4","s":218,"entity_type":"entity","d":"day of the year","a":["4 June","June 4th","4th of June","Jun 4"]}
-{"q":"Q2660","t":"June 28","s":218,"entity_type":"entity","d":"day of the year","a":["June 28th","28th of June","Jun 28","28 June"]}
-{"q":"Q2615","t":"June 10","s":218,"entity_type":"entity","d":"day of the year","a":["10 June","June 10th","10th of June","Jun 10"]}
-{"q":"Q2716","t":"July 30","s":218,"entity_type":"entity","d":"day of the year","a":["July 30th","30th of July","30 July","Jul 30"]}
 {"q":"Q3769","t":"French Guiana","s":218,"entity_type":"entity","d":"French overseas department and region in South America","st":1946,"a":["gf","Guyane","Guyane française","Guiana, France","GF","Guiana"]}
 {"q":"Q612","t":"Dubai","s":218,"entity_type":"city","d":"most populous city in the United Arab Emirates and the capital of the Emirate of Dubai","st":1833,"a":["Dubai (city)","Dubai city","Dubai, Emirate of Dubai","Dubai, UAE","Dubai, United Arab Emirates"]}
-{"q":"Q2303","t":"December 6","s":218,"entity_type":"entity","d":"day of the year","a":["6 December","December 6th","6th of December","Dec 6","6/12"]}
-{"q":"Q2901","t":"December 30","s":218,"entity_type":"entity","d":"day of the year","a":["December 30th","30th of December","30 December","Dec 30"]}
-{"q":"Q2410","t":"December 16","s":218,"entity_type":"entity","d":"day of the year","a":["16 December","December 16th","16th of December","Dec 16"]}
-{"q":"Q2783","t":"August 5","s":218,"entity_type":"entity","d":"day of the year","a":["August 5th","5th of August","5 August","Aug 5"]}
 {"q":"Q7809","t":"UNESCO","s":217,"entity_type":"entity","d":"specialised agency of the United Nations for education, sciences, and culture","st":1945,"a":["Unesco","United Nations Educational, Scientific and Cultural Organization","United Nations Educational, Scientific and Cultural Organization (UNESCO)"]}
 {"q":"Q1456","t":"South Carolina","s":217,"entity_type":"entity","d":"state of the United States of America","st":1788,"a":["SC","State of South Carolina","South Carolina, United States","S. C.","S.C.","Palmetto State","US-SC"]}
-{"q":"Q2856","t":"September 9","s":217,"entity_type":"entity","d":"day of the year","a":["September 9th","9th of September","9 September","Sep 9"]}
-{"q":"Q2851","t":"September 11","s":217,"entity_type":"entity","d":"day of the year","a":["11 September","11th of September","September 11th","Sep 11"]}
-{"q":"Q2853","t":"September 10","s":217,"entity_type":"entity","d":"day of the year","a":["10 September","September 10th","10th of September","Sep 10"]}
-{"q":"Q2950","t":"October 30","s":217,"entity_type":"entity","d":"day of the year","a":["October 30th","30th of October","30 October","Oct 30"]}
-{"q":"Q2556","t":"May 9","s":217,"entity_type":"entity","d":"date","a":["9 May","May 9th","9th of May"]}
 {"q":"Q5679","t":"Lord Byron","s":217,"entity_type":"person","d":"English Romantic poet and lyricist (1788–1824)","st":1788,"e":1824,"a":["George Gordon Byron","George Gordon Byron, 6th Baron Byron","Noel Byron","George Gordon Byron Lord","George Gordon Byron, 6th Lord Byron"]}
 {"q":"Q615","t":"Lionel Messi","s":217,"entity_type":"person","d":"Argentine association football player (born 1987)","st":1987,"a":["Lionel Andres Messi","Messi","Lionel Andrés Messi Cuccittini","Lionel Andrés Messi","Leo Messi"]}
-{"q":"Q2618","t":"June 9","s":217,"entity_type":"entity","d":"day of the year","a":["9 June","June 9th","9th of June","Jun 9"]}
-{"q":"Q2622","t":"June 5","s":217,"entity_type":"entity","d":"day of the year","a":["5 June","June 5th","5th of June","Jun 5"]}
-{"q":"Q2661","t":"June 26","s":217,"entity_type":"entity","d":"day of the year","a":["June 26th","26th of June","26 June","Jun 26"]}
-{"q":"Q2668","t":"June 23","s":217,"entity_type":"entity","d":"day of the year","a":["June 23rd","23rd of June","23 June","Jun 23"]}
-{"q":"Q2624","t":"June 2","s":217,"entity_type":"entity","d":"day of the year","a":["2 June","June 2nd","2nd of June","Jun 2"]}
-{"q":"Q2715","t":"July 31","s":217,"entity_type":"entity","d":"day of the year","a":["July 31st","31st of July","31 July","Jul 31"]}
-{"q":"Q2731","t":"July 16","s":217,"entity_type":"entity","d":"date","a":["July 16th","16th of July","16 July","Jul 16"]}
 {"q":"Q1314","t":"autumn","s":217,"entity_type":"entity","d":"one of the Earth's four temperate seasons, occurring between summer and winter; one of the 8 Sámi seasons","a":["fall","autumntime","falltime","fall season","autumn season","autumntime season"]}
-{"q":"Q2782","t":"August 9","s":217,"entity_type":"entity","d":"day of the year","a":["August 9th","9th of August","9 August","Aug 9"]}
-{"q":"Q2781","t":"August 7","s":217,"entity_type":"entity","d":"day of the year","a":["August 7th","7th of August","7 August","Aug 7","August 07"]}
-{"q":"Q2812","t":"August 16","s":217,"entity_type":"entity","d":"date","a":["August 16th","16th of August","16 August","Aug 16"]}
-{"q":"Q2776","t":"August 13","s":217,"entity_type":"entity","d":"day of the year","a":["August 13th","13th of August","13 August","Aug 13"]}
-{"q":"Q2091","t":"1999","s":217,"entity_type":"entity","d":"year","a":["MCMXCIX"]}
 {"q":"Q1435","t":"Zagreb","s":216,"entity_type":"entity","d":"capital city of Croatia","st":1094,"a":["Agram","Zágráb","Zagabria","Agranum"]}
 {"q":"Q724","t":"Maine","s":216,"entity_type":"entity","d":"state of the United States of America","st":1820,"a":["ME","State of Maine","Maine, United States","The Pine Tree State","US-ME"]}
-{"q":"Q2723","t":"July 26","s":216,"entity_type":"entity","d":"day of the year","a":["July 26th","26th of July","26 July","Jul 26"]}
-{"q":"Q2701","t":"July 11","s":216,"entity_type":"entity","d":"date","a":["July 11th","11th of July","11 July","Jul 11"]}
 {"q":"Q303","t":"Elvis Presley","s":216,"entity_type":"person","d":"American singer and actor (1935–1977)","st":1935,"e":1977,"a":["Elvis","King of Rock'n'Roll","Elvis A. Presley","The King of Rock'n'Roll","Elvis Aaron Presley"]}
-{"q":"Q2636","t":"December 22","s":216,"entity_type":"entity","d":"day of the year","a":["December 22nd","22nd of December","22 December","Dec 22"]}
 {"q":"Q1533","t":"Caracas","s":216,"entity_type":"city","d":"capital and largest city of Venezuela","st":1567,"a":["Santiago de León de Caracas","CCS","Carracas"]}
 {"q":"Q34969","t":"Benjamin Franklin","s":216,"entity_type":"person","d":"American polymath and statesman (1706–1790)","st":1706,"e":1790,"a":["Silence Dogood","Ben Franklin","The First American","Franklin","Poor Richard"]}
-{"q":"Q2780","t":"August 8","s":216,"entity_type":"entity","d":"day of the year","a":["August 8th","8th of August","8 August","Aug 8"]}
-{"q":"Q2786","t":"August 3","s":216,"entity_type":"entity","d":"day of the year","a":["August 3rd","3rd of August","3 August","Aug 3","3 Aug","03.08","3.8","08.03","8.3","Feast of St Stephen","St Stephen's Day","Invention of St Stephen","Feast of the Invention of St Stephen"]}
-{"q":"Q2825","t":"August 24","s":216,"entity_type":"entity","d":"day of the year","a":["August 24th","24th of August","24 August","Aug 24"]}
-{"q":"Q2775","t":"August 14","s":216,"entity_type":"entity","d":"date","a":["August 14th","14th of August","14 August","Aug 14"]}
-{"q":"Q2779","t":"August 10","s":216,"entity_type":"entity","d":"day of the year","a":["August 10th","10th of August","10 August","Aug 10"]}
 {"q":"Q7845134","t":"Trojany","s":215,"entity_type":"entity","d":"village in Masovian Voivodeship, Poland"}
-{"q":"Q2884","t":"September 27","s":215,"entity_type":"entity","d":"day of the year","a":["September 27th","27th of September","27 September","Sep 27"]}
-{"q":"Q2690","t":"July 9","s":215,"entity_type":"entity","d":"date","a":["July 9th","9th of July","9 July","Jul 9"]}
-{"q":"Q2692","t":"July 8","s":215,"entity_type":"entity","d":"date","a":["July 8th","8th of July","8 July","Jul 8"]}
-{"q":"Q2694","t":"July 7","s":215,"entity_type":"entity","d":"date","a":["July 7th","7th of July","7 July","Jul 7"]}
-{"q":"Q2687","t":"July 13","s":215,"entity_type":"entity","d":"date","a":["13th of July","July 13th","13 July","Jul 13"]}
-{"q":"Q2383","t":"December 15","s":215,"entity_type":"entity","d":"day of the year","a":["15 December","December 15th","15th of December","Dec 15"]}
 {"q":"Q11460","t":"clothing","s":215,"entity_type":"entity","d":"covering worn on the body","st":5700,"a":["apparel","garment","dress","wear","attire","vestment","clothes","costume","garments"]}
-{"q":"Q2816","t":"August 29","s":215,"entity_type":"entity","d":"day of the year","a":["August 29th","29th of August","29 August","Aug 29"]}
-{"q":"Q2821","t":"August 23","s":215,"entity_type":"entity","d":"day of the year","a":["August 23rd","23rd of August","23 August","Aug 23"]}
-{"q":"Q2824","t":"August 20","s":215,"entity_type":"entity","d":"day of the year","a":["August 20th","20th of August","20 August","Aug 20"]}
-{"q":"Q2827","t":"August 17","s":215,"entity_type":"entity","d":"date","a":["August 17th","17th of August","17 August","Aug 17"]}
 {"q":"Q11635","t":"theatre","s":214,"entity_type":"entity","d":"art of creating stories and performing them live in front of public","a":["live theatre","theatre","theater art","theater","live theater"]}
-{"q":"Q2587","t":"May 27","s":214,"entity_type":"entity","d":"date","a":["27 May","May 27th","27th of May"]}
-{"q":"Q2614","t":"June 13","s":214,"entity_type":"entity","d":"day of the year","a":["June 13th","13th of June","13 June","Jun 13"]}
 {"q":"Q8087","t":"geometry","s":214,"entity_type":"entity","d":"branch of mathematics regarding geometric figures and properties of space"}
 {"q":"Q5465","t":"Cape Town","s":214,"entity_type":"entity","d":"city in the Western Cape, South Africa","st":1652,"a":["Kaapstad","iKapa","Kaap","Cape","Cape Town, South Africa","Mother City","Tavern of the Seas","West side"]}
-{"q":"Q2778","t":"August 11","s":214,"entity_type":"entity","d":"day of the year","a":["August 11th","11th of August","11 August","Aug 11"]}
-{"q":"Q2088","t":"1997","s":214,"entity_type":"entity","d":"year","a":["MCMXCVII"]}
-{"q":"Q2070","t":"1996","s":214,"entity_type":"entity","d":"year","a":["MCMXCVI"]}
-{"q":"Q2475","t":"1971","s":214,"entity_type":"entity","d":"year"}
 {"q":"Q11629","t":"painting","s":213,"entity_type":"entity","d":"practice of applying paint, pigment, color or other medium to a surface","a":["art of painting","to paint"]}
-{"q":"Q2586","t":"May 26","s":213,"entity_type":"entity","d":"date","a":["26 May","May 26th","26th of May"]}
-{"q":"Q49622","t":"2023","s":213,"entity_type":"entity","d":"calendar year","st":2023,"e":2023,"a":["MMXXIII","2023 AD","2023 CE","two thousand twenty-three","twenty twenty-three","two thousand and twenty-three","two zero two three"]}
 {"q":"Q7235","t":"Sophocles","s":212,"entity_type":"person","d":"ancient Greek playwright","st":496,"e":406}
 {"q":"Q619","t":"Nicolaus Copernicus","s":212,"entity_type":"person","d":"Polish mathematician and astronomer (1473-1543)","st":1473,"e":1543}
-{"q":"Q2819","t":"August 25","s":212,"entity_type":"entity","d":"day of the year","a":["August 25th","25th of August","25 August","Aug 25"]}
-{"q":"Q2823","t":"August 21","s":212,"entity_type":"entity","d":"day of the year","a":["August 21st","21st of August","21 August","Aug 21"]}
-{"q":"Q2439","t":"1980","s":212,"entity_type":"entity","d":"year","a":["MCMLXXX","1980 AD","1980 CE"]}
-{"q":"Q2644","t":"1968","s":212,"entity_type":"entity","d":"year"}
-{"q":"Q2650","t":"1965","s":212,"entity_type":"entity","d":"year","st":1965,"e":1965}
 {"q":"Q23397","t":"lake","s":211,"entity_type":"entity","d":"body of relatively still water, localized in a basin","a":["lakes"]}
 {"q":"Q1794","t":"Frankfurt","s":211,"entity_type":"entity","d":"most populated city of Hesse, Germany","st":100,"a":["Frankfurt/Main","Frankfurt (Main)","Kreisfreie Stadt Frankfurt am Main","Frankfort-on-the-Main","Frankfurt, Germany","Frankfurt am Main, Germany","Frankfurt am Main","Francfort"]}
 {"q":"Q9035","t":"Danish","s":211,"entity_type":"entity","d":"North Germanic language spoken in Northern Europe","a":["Danish language","South Scandinavian"]}
 {"q":"Q3820","t":"Beirut","s":211,"entity_type":"entity","d":"capital and largest city of Lebanon","a":["Beyrout"]}
-{"q":"Q2065","t":"1993","s":211,"entity_type":"entity","d":"year","a":["MCMXCIII"]}
-{"q":"Q2764","t":"1962","s":211,"entity_type":"entity","d":"year"}
 {"q":"Q180","t":"Wikimedia Foundation","s":210,"entity_type":"entity","d":"American charitable organization","st":2003}
 {"q":"Q3335","t":"George Orwell","s":210,"entity_type":"person","d":"British writer and journalist (1903–1950)","st":1903,"e":1950}
-{"q":"Q2652","t":"1964","s":210,"entity_type":"entity","d":"year","st":1964,"e":1964}
-{"q":"Q5263","t":"1947","s":210,"entity_type":"entity","d":"year"}
-{"q":"Q5240","t":"1945","s":210,"entity_type":"entity","d":"year"}
-{"q":"Q2035","t":"1901","s":210,"entity_type":"entity","d":"year"}
 {"q":"Q11633","t":"photography","s":209,"entity_type":"entity","d":"art, science, and practice of creating durable images by recording light or other electromagnetic radiation"}
 {"q":"Q12560","t":"Ottoman Empire","s":209,"entity_type":"entity","d":"multiethnic empire with the monarchs from the Ottoman dynasty (1299–1922)","st":1302,"e":1922,"a":["Ottoman State","Turkish Empire","Sublime Ottoman State"]}
-{"q":"Q2436","t":"1982","s":209,"entity_type":"entity","d":"year"}
-{"q":"Q18585","t":"1953","s":209,"entity_type":"entity","d":"year"}
-{"q":"Q2165","t":"1922","s":209,"entity_type":"entity","d":"year"}
 {"q":"Q31354462","t":"Republic of Abkhazia","s":208,"entity_type":"entity","d":"state with limited recognition in the Caucasus","st":1994,"a":["Abkhazia","The Republic of Abkhazia","Abkhazian Republic","Respublika Abkhaziya","Apsny","Aṗsny","Aṗsny Ahwyntqarra","Abkhaziya"]}
 {"q":"Q12725","t":"electricity","s":208,"entity_type":"entity","d":"physical phenomena associated with the presence and flow of electric charge"}
 {"q":"Q8683","t":"Cold War","s":208,"entity_type":"entity","d":"1947–1991 tension between the Soviet Union and the United States and their respective allies","st":1945,"e":1991,"a":["The Cold War"]}
 {"q":"Q10943","t":"cheese","s":208,"entity_type":"entity","d":"yellow or white, creamy or solid food made from the pressed curds of milk","a":["cheeses"]}
 {"q":"Q23556","t":"Atlanta","s":208,"entity_type":"entity","d":"capital city of Georgia, United States","st":1845,"a":["Terminus","Atlanta, Georgia","The Big Peach","Hotlanta","The ATL","The A","Atlanta, GA","Marthasville, Georgia","Marthasville"]}
 {"q":"Q663","t":"aluminium","s":208,"entity_type":"entity","d":"metallic chemical element of silvery appearance with symbol Al and atomic number 13","a":["element 13","13Al","aluminum"]}
-{"q":"Q2479","t":"1975","s":208,"entity_type":"entity","d":"year"}
-{"q":"Q2474","t":"1970","s":208,"entity_type":"entity","d":"year","a":["MCMLXX","mil novecientos setenta"]}
-{"q":"Q5221","t":"1956","s":208,"entity_type":"entity","d":"year"}
-{"q":"Q18577","t":"1955","s":208,"entity_type":"entity","d":"year"}
-{"q":"Q18610","t":"1946","s":208,"entity_type":"entity","d":"year"}
-{"q":"Q2162","t":"1921","s":208,"entity_type":"entity","d":"year"}
-{"q":"Q2083","t":"1914","s":208,"entity_type":"entity","d":"year"}
-{"q":"Q2049","t":"1906","s":208,"entity_type":"entity","d":"common year starting on Monday"}
-{"q":"Q2430","t":"1986","s":207,"entity_type":"entity","d":"year"}
-{"q":"Q2434","t":"1983","s":207,"entity_type":"entity","d":"year"}
-{"q":"Q18625","t":"1942","s":207,"entity_type":"entity","d":"year"}
-{"q":"Q2157","t":"1919","s":207,"entity_type":"entity","d":"year"}
-{"q":"Q2077","t":"1912","s":207,"entity_type":"entity","d":"year"}
 {"q":"Q23501","t":"tomato","s":206,"entity_type":"taxon","d":"type of plant species with edible, often red, berry fruit","a":["Solanum lycopersicum","garden tomato","love apple","tomato plant"]}
 {"q":"Q9438","t":"Thomas Aquinas","s":206,"entity_type":"person","d":"Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church (1225–1274)","st":1225,"e":1274,"a":["Saint Thomas Aquinas","Saint Thomas","Tommaso d'Aquino","Thomas of Aquino","St Thomas Aquinas","St. Thomas Aquinas","Aquinas","Angelic Doctor","Dumb Ox"]}
 {"q":"Q7270","t":"republic","s":206,"entity_type":"entity","d":"form of government where the head of state is elected","a":["republican state","republican government"]}
@@ -452,27 +260,13 @@
 {"q":"Q3559","t":"comet","s":206,"entity_type":"entity","d":"icy small astronomical object"}
 {"q":"Q12132","t":"calendar system","s":206,"entity_type":"entity","d":"system of organizing days for social, religious, commercial, or administrative purposes","a":["Calendar","calendar"]}
 {"q":"Q441","t":"botany","s":206,"entity_type":"entity","d":"science of plant life","a":["plant science","plant sciences","plant biology","phytology","phytobiology","botanical science"]}
-{"q":"Q2429","t":"1987","s":206,"entity_type":"entity","d":"year"}
-{"q":"Q2481","t":"1977","s":206,"entity_type":"entity","d":"calendar year"}
-{"q":"Q18792","t":"1929","s":206,"entity_type":"entity","d":"year"}
-{"q":"Q2169","t":"1923","s":206,"entity_type":"entity","d":"year"}
-{"q":"Q2076","t":"1911","s":206,"entity_type":"entity","d":"year"}
 {"q":"Q2634","t":"Naples","s":205,"entity_type":"city","d":"capital city of Campania, Italy","a":["Napoli","Neapolis"]}
 {"q":"Q6022566","t":"Monte Águila","s":205,"entity_type":"entity","d":"city in Chile"}
 {"q":"Q7188","t":"government","s":205,"entity_type":"entity","d":"system or group of people governing an organized community, often a state","a":["gov","govt.","gvmnt"]}
 {"q":"Q764","t":"fungi","s":205,"entity_type":"taxon","d":"organism belonging to kingdom Fungi","st":4100,"a":["fungus"]}
-{"q":"Q2477","t":"1973","s":205,"entity_type":"entity","d":"year","a":["MCMLXXIII","'73"]}
-{"q":"Q18649","t":"1936","s":205,"entity_type":"entity","d":"year"}
-{"q":"Q5259","t":"1926","s":205,"entity_type":"entity","d":"year"}
-{"q":"Q2084","t":"1915","s":205,"entity_type":"entity","d":"year"}
-{"q":"Q2048","t":"1907","s":205,"entity_type":"entity","d":"year"}
-{"q":"Q2047","t":"1905","s":205,"entity_type":"entity","d":"common year starting on Sunday"}
 {"q":"Q2277","t":"Roman Empire","s":204,"entity_type":"entity","d":"period of ancient Rome following the Republic","st":27,"e":395,"a":["Imperium Romanum","Romanum imperium","imperium romanum"]}
 {"q":"Q3838","t":"Kinshasa","s":204,"entity_type":"entity","d":"capital and the largest city of the Democratic Republic of the Congo having the status of a province","st":1881,"a":["Léopoldville","Leopoldstad","Leopoldville"]}
 {"q":"Q14660","t":"flag","s":204,"entity_type":"entity","d":"distinctive image used as a symbol, traditionally embodied as a piece of fabric","a":["flags"]}
-{"q":"Q49619","t":"2024","s":204,"entity_type":"entity","d":"calendar year","st":2024,"e":2024,"a":["MMXXIV","two thousand twenty-four","two thousand and twenty-four","twenty twenty-four","2024 AD","2024 CE"]}
-{"q":"Q18623","t":"1943","s":204,"entity_type":"entity","d":"year"}
-{"q":"Q2057","t":"1909","s":204,"entity_type":"entity","d":"year"}
 {"q":"Q12483","t":"statistics","s":203,"entity_type":"entity","d":"study of the collection, analysis, interpretation, and presentation of data","a":["stats","statistical sciences"]}
 {"q":"Q1511","t":"Richard Wagner","s":203,"entity_type":"person","d":"German composer (1813–1883)","st":1813,"e":1883,"a":["Wilhelm Richard Wagner","Wagner"]}
 {"q":"Q1345","t":"Philadelphia","s":203,"entity_type":"entity","d":"largest city in Pennsylvania, United States","st":1682,"a":["Philly","City of Brotherly Love","Cradle of Liberty","Philadelphia, Pennsylvania","City of Philadelphia","Philadelphia, PA","Philadelphia, Pa"]}
@@ -515,7 +309,6 @@
 {"q":"Q18813","t":"New Testament","s":195,"entity_type":"entity","d":"second division of the Christian biblical canon","st":100,"a":["NT","Greek Scriptures","New Covenant"]}
 {"q":"Q23768","t":"Las Vegas","s":195,"entity_type":"entity","d":"seat of Clark County, and largest city in state of Nevada, United States","st":1905,"a":["Vegas","Sin City","City of Las Vegas","Las Vegas, NV","The Entertainment Capital of the World","The Gambling Capital of the World"]}
 {"q":"Q1496","t":"Ferdinand Magellan","s":195,"entity_type":"person","d":"Portuguese explorer in the service of Spain","st":1480,"e":1521,"a":["Fernão de Magalhães","Fernando de Magallanes","Magallanes","Magellan","Hernando de Magallanes","Fernando de Magalhães","Fernand de Magaglianes","Fernan de Magalhāes","Fernan de Magalhaes","Fernan de Magalhães"]}
-{"q":"Q49616","t":"2025","s":195,"entity_type":"entity","d":"calendar year","st":2025,"e":2025,"a":["MMXXV","2025 AD","2025 CE","two thousand twenty-five","twenty twenty-five","two thousand and twenty-five"]}
 {"q":"Q23640","t":"head","s":194,"entity_type":"entity","d":"anterior anatomical region in many animals, which tends to contain sensory and nervous organs and orifices for ingestion and breathing","a":["heads","noddles","cephalic"]}
 {"q":"Q11613","t":"Harry S. Truman","s":194,"entity_type":"person","d":"president of the United States from 1945 to 1953; politician (1884–1972)","st":1884,"e":1972,"a":["Harry Truman","Truman","President Truman","H. S. Truman","H. Truman","Harry S Truman"]}
 {"q":"Q1653","t":"Danube","s":194,"entity_type":"entity","d":"second-longest river in Europe","a":["Donau","Danube River","River Danube"]}
@@ -541,11 +334,8 @@
 {"q":"Q23635","t":"Bermuda","s":191,"entity_type":"entity","d":"British overseas territory in the North Atlantic Ocean","st":1612,"a":["Somers Isles","Bermuda Islands","Atlantic/Bermuda","Bermudian Islands","Bermoothes","Virgineola","The Somers Isles","Summers' Isles","Territory of Bermuda","Bermudas","Somers Islands","Colony of Bermuda","Devil's Isles","Summer's Isles","Isle of Devils","bm","Barmuda","Barmuda Islands","Barmudas","Barmuda I.","Barmuda Isl."]}
 {"q":"Q23522","t":"Balkans","s":191,"entity_type":"entity","d":"geopolitical and cultural region of Southeast Europe","a":["Balkanoid","Balkan peninsula","South Balkan area","Balkan Pennisula","The Balkans","Balkans peninsula","Balkins","Balkan","Balkan penninsula","Balkan States","Peninsula of Haemus","Haemus Peninsula","Balcans","Balkan countries","Balkan Peninisula"]}
 {"q":"Q1863","t":"Andorra la Vella","s":191,"entity_type":"entity","d":"capital of Andorra","st":900}
-{"q":"Q7844","t":"1895","s":191,"entity_type":"entity","d":"year"}
 {"q":"Q384","t":"Skopje","s":190,"entity_type":"entity","d":"capital city of North Macedonia","a":["Üsküb","Skoplje","Shkup","Shkupi","Escópia"]}
 {"q":"Q1744","t":"Madonna","s":190,"entity_type":"person","d":"American singer, songwriter, and actress (born 1958)","st":1958,"a":["Madonna Louise Veronica Ciccone","Madonna Ciccone","Madonna L. Ciccone"]}
-{"q":"Q7847","t":"1897","s":190,"entity_type":"entity","d":"calendar year"}
-{"q":"Q7808","t":"1881","s":190,"entity_type":"entity","d":"year"}
 {"q":"Q943","t":"yellow","s":189,"entity_type":"entity","d":"primary color between green and orange in the light spectrum","a":["Y","FFFF00","ffff00","yellow color","color yellow"]}
 {"q":"Q532","t":"village","s":189,"entity_type":"entity","d":"small clustered human settlement smaller than a town","a":["small town"]}
 {"q":"Q9588","t":"Richard Nixon","s":189,"entity_type":"person","d":"president of the United States from 1969 to 1974 (1913–1994)","st":1913,"e":1994,"a":["Richard Milhous Nixon","Nixon","President Nixon","R. Nixon","R. M. Nixon","Richard M. Nixon","Dick Nixon","Tricky Dick","President Richard Nixon"]}
@@ -554,7 +344,6 @@
 {"q":"Q6235","t":"nationalism","s":189,"entity_type":"entity","d":"ideology and movement that promotes the interests of a particular nation (as in a group of people) especially with the aim of gaining and maintaining the nation's sovereignty (self-governance) over its homeland","st":1800,"a":["nationalist ideology"]}
 {"q":"Q10876","t":"bacteria","s":189,"entity_type":"taxon","d":"domain of micro-organisms","st":3500,"a":["eubacteria","Bacteria"]}
 {"q":"Q514","t":"anatomy","s":189,"entity_type":"entity","d":"study of the internal structure of organisms and their parts","a":["general anatomy"]}
-{"q":"Q7829","t":"1888","s":189,"entity_type":"entity","d":"year","a":["1888 AD","1888 CE"]}
 {"q":"Q4688112","t":"Sung Jae-gi","s":188,"entity_type":"person","d":"South Korean masculism activist (1967-2013)","st":1967,"e":2013,"a":["Seong Jae-ki","Seong Jae-gi","Sung Jai-ki","Seong Jai-ki","Sung Jae-ki"]}
 {"q":"Q4692","t":"Renaissance","s":188,"entity_type":"entity","d":"cultural movement that spanned the period roughly from the 14th to the 17th century","st":1400,"e":1650}
 {"q":"Q7604","t":"Leonhard Euler","s":188,"entity_type":"person","d":"Swiss mathematician, physicist, and engineer (1707–1783)","st":1707,"e":1783,"a":["Euler, Leonhard","L. Euler","Euler"]}
@@ -575,17 +364,10 @@
 {"q":"Q34647","t":"Johannesburg","s":186,"entity_type":"city","d":"largest city in South Africa","st":1886,"a":["Jo'burg","eGoli","Jozi","Johannesburg, Gauteng","Johannesburg, South Africa","Johannesburg, Gauteng, South Africa","ZAJNB","joburg"]}
 {"q":"Q27275","t":"Central Asia","s":186,"entity_type":"entity","d":"subregion of the Asian continent"}
 {"q":"Q9091","t":"Belarusian","s":186,"entity_type":"entity","d":"East Slavic language","st":1517,"a":["Belarus language","Belarusan","Belarusan language","Belarusian language","Belarussian","Belarussian language","Belorusian","Belorusian language","Belorussian","Belorussian language","Bielarusian","Bielarusian language","Bielaruskaja","Bielorusian","Bielorusian language","Bielorussian","Bielorussian language","Byelorussian","Byelorussian language","White Russian","White Russian language"]}
-{"q":"Q7741","t":"1870","s":186,"entity_type":"entity","d":"year"}
-{"q":"Q7720","t":"1869","s":186,"entity_type":"entity","d":"year"}
-{"q":"Q6877","t":"1801","s":186,"entity_type":"entity","d":"year"}
 {"q":"Q15645384","t":"wheat","s":185,"entity_type":"entity","d":"widely cultivated cereal grain","a":["wheat grain"]}
 {"q":"Q17054","t":"Martinique","s":185,"entity_type":"entity","d":"island in the Lesser Antilles, overseas region and department of France","st":1946,"a":["Matnik","Matinik","MQ","Martinica","Territorial Collectivity of Martinique","Jouanacaëra","Wanakaera","Madiana","Madinina","Matinino"]}
 {"q":"Q7324","t":"James Cook","s":185,"entity_type":"person","d":"British explorer, cartographer and naval officer (1728–1779)","st":1728,"e":1779,"a":["Captain James Cook","Captain Cook","James Cooke","Cook, James","James Marton Cook"]}
 {"q":"Q7207","t":"Elizabeth I of England","s":185,"entity_type":"person","d":"Queen of England and Ireland from 1558 to 1603","st":1533,"e":1603,"a":["Elisabeth I","Elisabetta I","Elizabeth I","Elizabeth I, Queen of England","Elizabeth the Virgin Queen","Elizabeth Tudor","Gloriana","Good Queen Bess","Lady Elizabeth","Princess Elizabeth of England","Queen Bess","Queen Elizabeth","Queen Elizabeth I","The Virgin Queen","Virgin Queen"]}
-{"q":"Q7819","t":"1884","s":185,"entity_type":"entity","d":"year"}
-{"q":"Q7806","t":"1880","s":185,"entity_type":"entity","d":"year"}
-{"q":"Q7746","t":"1871","s":185,"entity_type":"entity","d":"year"}
-{"q":"Q7717","t":"1868","s":185,"entity_type":"entity","d":"year"}
 {"q":"Q626","t":"Volga","s":184,"entity_type":"entity","d":"river in Russia; the longest river in Europe","a":["Volga River","River Volga","Wolga","River Wolga","Wolga River","R. Volga","R. Wolga","Volga R.","Wolga R.","Rha river (in Scythian)","Rā (in Scythian)","Oares (in Greek)"]}
 {"q":"Q9420","t":"thought","s":184,"entity_type":"entity","d":"mental activity involving an individual's subjective consciousness","a":["thinking skill"]}
 {"q":"Q462","t":"Star Wars","s":184,"entity_type":"entity","d":"epic space opera multimedia franchise created by George Lucas","st":1977}
@@ -598,9 +380,6 @@
 {"q":"Q9317","t":"John Maynard Keynes","s":184,"entity_type":"person","d":"British economist (1883–1946)","st":1883,"e":1946,"a":["Lord Keynes","Baron Keynes of Tilton","John Maynard Keynes, 1st Baron Keynes"]}
 {"q":"Q294","t":"Icelandic","s":184,"entity_type":"entity","d":"North Germanic language mainly spoken in Iceland","a":["Icelandic language","Íslenska","Iſlandic tongue"]}
 {"q":"Q8811","t":"HTML","s":184,"entity_type":"entity","d":"family of markup languages for displaying content in a web browser","st":1989}
-{"q":"Q7776","t":"1878","s":184,"entity_type":"entity","d":"year"}
-{"q":"Q7773","t":"1877","s":184,"entity_type":"entity","d":"year"}
-{"q":"Q7704","t":"1864","s":184,"entity_type":"entity","d":"year"}
 {"q":"Q36600","t":"The Hague","s":183,"entity_type":"entity","d":"city and municipality in the Netherlands, seat of the Dutch government","st":1201,"a":["Den Haag","'s-Gravenhage","Haag","Hague"]}
 {"q":"Q7197","t":"Simone de Beauvoir","s":183,"entity_type":"person","d":"French philosopher, social theorist and activist (1908–1986)","st":1908,"e":1986}
 {"q":"Q39259","t":"Recep Tayyip Erdoğan","s":183,"entity_type":"person","d":"President of Turkey since 2014","st":1954,"a":["Tayyip Erdoğan","Erdoğan","Recep Tayyip Erdogan","Erdogan","Tayyip Erdogan"]}
@@ -610,17 +389,11 @@
 {"q":"Q8209","t":"Cyrillic script","s":183,"entity_type":"entity","d":"writing system developed in Bulgaria and used for various oriental Eurasian languages","st":870,"a":["cyrl","Kiril","Cyrillic","Cyrillic alphabet"]}
 {"q":"Q9361","t":"Bishkek","s":183,"entity_type":"entity","d":"capital city of Kyrgyzstan","st":1825,"a":["Frunze","Pishpek"]}
 {"q":"Q23438","t":"Ashgabat","s":183,"entity_type":"entity","d":"capital city of Turkmenistan","st":1881,"a":["Poltoratsk","Ashqabad","Aschchabad","Ašgabat","Ashkabat","Ishqabad","'Ishqabad","Asgabat","Askhabad","Ashgabad","Ashabad","`Ishqabad","Ak-Gaudan","Askabad","Ashkhabad","`Ishqábád","Ishqabat","Ashkabad","Aşgabat","Konjikala"]}
-{"q":"Q7757","t":"1873","s":183,"entity_type":"entity","d":"year"}
-{"q":"Q6973","t":"1820","s":183,"entity_type":"entity","d":"year"}
 {"q":"Q5428","t":"Siberia","s":182,"entity_type":"entity","d":"region of Asia"}
 {"q":"Q23548","t":"National Aeronautics and Space Administration","s":182,"entity_type":"entity","d":"American space and aeronautics agency","st":1958}
 {"q":"Q9021","t":"Max Planck","s":182,"entity_type":"person","d":"German theoretical physicist (1858–1947)","st":1858,"e":1947,"a":["Max Karl Ernst Ludwig Planck","Planck, Max"]}
 {"q":"Q706","t":"calcium","s":182,"entity_type":"entity","d":"chemical element with symbol Ca and atomic number 20","a":["Ca","element 20","20Ca"]}
 {"q":"Q23498","t":"archaeology","s":182,"entity_type":"entity","d":"study of the past via material culture","a":["archeology","archæology"]}
-{"q":"Q7680","t":"1857","s":182,"entity_type":"entity","d":"year"}
-{"q":"Q7622","t":"1841","s":182,"entity_type":"entity","d":"year"}
-{"q":"Q6976","t":"1821","s":182,"entity_type":"entity","d":"calendar year"}
-{"q":"Q6933","t":"1812","s":182,"entity_type":"entity","d":"year"}
 {"q":"Q11708","t":"Southeast Asia","s":181,"entity_type":"entity","d":"south-eastern region of Asia","a":["Southeastern Asia","South-east Asia","South East Asia","SE Asia","Asia, Southeastern","SEA"]}
 {"q":"Q17070","t":"Réunion","s":181,"entity_type":"entity","d":"overseas department of France in the Indian Ocean","st":1946,"a":["Reunion","La Réunion","La Reunion","re",".re","La Réunion Island","Reunion Island","Bourbon Island","Île de La Réunion","Île de la Réunion","ISO 3166-1:RE"]}
 {"q":"Q7278","t":"political party","s":181,"entity_type":"entity","d":"organization that seeks to influence government policy and actions and be elected to directly take part on government or legislation","a":["party in politics","party (politics)","political parties","parties in politics","parties (politics)"]}
@@ -628,22 +401,9 @@
 {"q":"Q985","t":"Baden-Württemberg","s":181,"entity_type":"entity","d":"state in the southwest of the Federal Republic of Germany","st":1952,"a":["BW","Land Baden-Württemberg","DE-BW","BaWü","The Länd"]}
 {"q":"Q203","t":"5","s":181,"entity_type":"entity","d":"natural number","a":["five","number 5","number five"]}
 {"q":"Q6939","t":"21st century","s":181,"entity_type":"entity","d":"current century","st":2001,"e":2100,"a":["21st-century","twenty-first century","History, 21st Century","XXI Century"]}
-{"q":"Q7753","t":"1872","s":181,"entity_type":"entity","d":"year"}
-{"q":"Q7712","t":"1866","s":181,"entity_type":"entity","d":"year"}
-{"q":"Q7701","t":"1863","s":181,"entity_type":"entity","d":"year"}
-{"q":"Q7640","t":"1846","s":181,"entity_type":"entity","d":"year","a":["Kōka 3 (1846)"]}
-{"q":"Q7584","t":"1832","s":181,"entity_type":"entity","d":"year"}
-{"q":"Q7579","t":"1831","s":181,"entity_type":"entity","d":"Gregorian calendar year"}
-{"q":"Q6875","t":"1800","s":181,"entity_type":"entity","d":"year"}
 {"q":"Q167","t":"pi","s":180,"entity_type":"entity","d":"constant ratio of the circumference of a circle to its diameter","a":["Archimedes' constant","π","pi number","ratio of circumference to diameter","3.14...","tau over two","tau/2","0.5tau","(1/2)tau"]}
 {"q":"Q8479","t":"Peter the Great","s":180,"entity_type":"person","d":"Tsar/Emperor of Russia from 1682 to 1725","st":1672,"e":1725,"a":["Peter I","Pyotr Alexeyevich Romanov","Petr I Alekseevich","Pyotr Alekseyevich","Petr Alekseevich Romanov","Pyotr Velikiy","Peter I of Russia"]}
 {"q":"Q23425","t":"Cucumis sativus","s":180,"entity_type":"taxon","d":"species of plant in the Cucurbitaceae gourd family","a":["gherkin plant","cucumber","hard green cumplant"]}
-{"q":"Q7766","t":"1876","s":180,"entity_type":"entity","d":"year"}
-{"q":"Q7666","t":"1853","s":180,"entity_type":"entity","d":"year"}
-{"q":"Q7619","t":"1840","s":180,"entity_type":"entity","d":"year"}
-{"q":"Q6937","t":"1813","s":180,"entity_type":"entity","d":"year"}
-{"q":"Q6928","t":"1811","s":180,"entity_type":"entity","d":"year"}
-{"q":"Q6898","t":"1805","s":180,"entity_type":"entity","d":"year"}
 {"q":"Q10811","t":"Reptilia","s":179,"entity_type":"taxon","d":"class of vertebrate animals (Vertebrata)","st":3180,"a":["reptiles","reptilians","reptile"]}
 {"q":"Q1850","t":"Phnom Penh","s":179,"entity_type":"city","d":"capital of Cambodia","st":1372}
 {"q":"Q659","t":"north","s":179,"entity_type":"entity","d":"one of the four cardinal directions","a":["N","septentrion","northbound","northerly"]}
@@ -651,15 +411,11 @@
 {"q":"Q12548","t":"Holy Roman Empire","s":179,"entity_type":"entity","d":"multi-ethnic complex of territories in Western and Central Europe (800/962–1806)","st":962,"e":1806,"a":["First Reich","Reich","HRE","Roman-German Empire","Old Empire","Holy Roman Empire of the German Nation"]}
 {"q":"Q9106","t":"Dmitri Mendeleev","s":179,"entity_type":"person","d":"Russian chemist (1834–1907)","st":1834,"e":1907,"a":["Mendeleev","Dmitri Ivanovich Mendeleyev","Dmitri Ivanovich Mendeleev","Dmitri Mendeleyev","Dmitri Mendeleiev","Dmitry Mendeleyev","Dimitri Mendeleyev"]}
 {"q":"Q23622","t":"dictionary","s":179,"entity_type":"entity","d":"collection of words and their meanings"}
-{"q":"Q6914","t":"1808","s":179,"entity_type":"entity","d":"year"}
 {"q":"Q23800","t":"Valletta","s":178,"entity_type":"city","d":"capital of Malta","st":1566,"a":["Valleta","Capital of Malta","Valetta","Il-Belt Valletta","Città Umilissima","La Valleta","La Valletta","Citta Umilissima"]}
 {"q":"Q9134","t":"mythology","s":178,"entity_type":"entity","d":"collection of sacred stories or a set of beliefs belonging to a specific religious or cultural tradition","a":["Folklore","Mythos","Legends"]}
 {"q":"Q8275","t":"Iliad","s":178,"entity_type":"work","d":"epic poem attributed to Homer","st":800,"a":["the Iliad","Hom. Il."]}
 {"q":"Q39760","t":"Gaza Strip","s":178,"entity_type":"entity","d":"self-governing Palestinian territory next to Egypt and Israel","st":1949,"a":["Strip of Gaza","Gaza"]}
 {"q":"Q16641","t":"American Samoa","s":178,"entity_type":"entity","d":"unincorporated territory of the United States of America, located in the Pacific Ocean","st":1899,"a":["as","East Samoa","Samoa (American)","Territory of American Samoa","U.S. Samoa","US Samoa","ISO 3166-1:AS","Samoa, United States","American Sāmoa"]}
-{"q":"Q7004","t":"1826","s":178,"entity_type":"entity","d":"calendar year"}
-{"q":"Q6958","t":"1817","s":178,"entity_type":"entity","d":"year","a":["Bunka 14"]}
-{"q":"Q7772","t":"1789","s":178,"entity_type":"entity","d":"year"}
 {"q":"Q11663","t":"weather","s":177,"entity_type":"entity","d":"state of the atmosphere","a":["weather conditions"]}
 {"q":"Q19821","t":"triangle","s":177,"entity_type":"entity","d":"basic three-sided shape of geometry","a":["3-gon","2-simplex"]}
 {"q":"Q8161","t":"tax","s":177,"entity_type":"entity","d":"mandatory financial charge or other type of levy imposed on a taxpayer (an individual or legal entity) by a governmental organization to collectively fund government spending, public expenditures, or to regulate and reduce negative externalities","a":["taxes","taxation"]}
@@ -668,10 +424,6 @@
 {"q":"Q501","t":"Charles Baudelaire","s":177,"entity_type":"person","d":"French poet and critic (1821–1867)","st":1821,"e":1867,"a":["Baudelaire","Charles Pierre Baudelaire-Dufaÿs","Charles Pierre Baudelaire"]}
 {"q":"Q11772","t":"Ancient Greece","s":177,"entity_type":"entity","d":"Greek civilization from 1200 BC to 600 AD","st":1200,"e":600,"a":["Greek antiquity","Greece","Hellas","classical Greece"]}
 {"q":"Q6955","t":"19th century","s":177,"entity_type":"entity","d":"time period between January 1, 1801, and ended on December 31, 1900","st":1801,"e":1900,"a":["19th-century","nineteenth century","19. century","XIX Century"]}
-{"q":"Q6994","t":"1824","s":177,"entity_type":"entity","d":"calendar year"}
-{"q":"Q7815","t":"1795","s":177,"entity_type":"entity","d":"year"}
-{"q":"Q7807","t":"1793","s":177,"entity_type":"entity","d":"year"}
-{"q":"Q7784","t":"1791","s":177,"entity_type":"entity","d":"year"}
 {"q":"Q601401","t":"trade","s":176,"entity_type":"entity","d":"economic branch involving the exchange of goods and services","a":["trading","transactions","commercial transactions"]}
 {"q":"Q17252","t":"Tibet","s":176,"entity_type":"entity","d":"plateau region in west China","a":["Thibet","Greater Tibet","Tibetan cultural zone","Tibetan Highland","Tibetan Tableland","Tibetan Plateau","Tubet","Tangut","Tobat","Thebet"]}
 {"q":"Q527","t":"sky","s":176,"entity_type":"entity","d":"region of the atmosphere and outer space visible from the surface of the Earth","a":["celestial dome","celestial vault","firmament"]}
@@ -682,7 +434,6 @@
 {"q":"Q1254","t":"Kofi Annan","s":176,"entity_type":"person","d":"7th Secretary-General of the United Nations (1938-2018)","st":1938,"e":2018,"a":["Kofi Atta Annan","Annan","Kofi A. Annan","Busumuru Kofi Atta Annan"]}
 {"q":"Q16970","t":"church building","s":176,"entity_type":"entity","d":"building for Christian worship","a":["kirk","christian temple","meetinghouse","church meetinghouse","church"]}
 {"q":"Q87","t":"Alexandria","s":176,"entity_type":"entity","d":"port city on the Mediterranean coast of Egypt","st":331,"a":["Mediterranean's Bride","Pearl of the Mediterranean","Al Iskandariya","Iskandariyya","Alexandria, Egypt"]}
-{"q":"Q7636","t":"1845","s":176,"entity_type":"entity","d":"year"}
 {"q":"Q22656","t":"petroleum","s":175,"entity_type":"entity","d":"naturally occurring flammable liquid","a":["crude oil","black gold","oil","raw oil","pampetro","petrol oil","fossil-oil","conventional oil","fossil oil","Petroleum"]}
 {"q":"Q2283","t":"Microsoft","s":175,"entity_type":"entity","d":"American multinational technology corporation","st":1975,"a":["microsoft.com"]}
 {"q":"Q9640","t":"Lyndon B. Johnson","s":175,"entity_type":"person","d":"president of the United States from 1963 to 1969 (1908–1973)","st":1908,"e":1973,"a":["Lyndon Johnson","LBJ","President Johnson","L. B. Johnson","Lyndon Baines Johnson"]}
@@ -690,7 +441,6 @@
 {"q":"Q9365","t":"Dushanbe","s":175,"entity_type":"city","d":"capital of Tajikistan","st":1700,"a":["Dyushambe","Stalinabad"]}
 {"q":"Q2933","t":"Asunción","s":175,"entity_type":"entity","d":"capital of Paraguay","st":1537,"a":["Asu","Asuncion","Assumption"]}
 {"q":"Q10908","t":"Amphibia","s":175,"entity_type":"taxon","d":"class of tetrapods, whose living forms include frogs, toads, salamanders, newts and caecilians","st":3700,"a":["amphibian","amphibians"]}
-{"q":"Q7683","t":"1770","s":175,"entity_type":"entity","d":"year"}
 {"q":"Q3935","t":"Windhoek","s":174,"entity_type":"city","d":"capital of the Republic of Namibia","st":1840,"a":["Otjomuise","Windhuk","ǀAi-ǁGams","Windhök"]}
 {"q":"Q26876","t":"Taylor Swift","s":174,"entity_type":"person","d":"American singer-songwriter (born 1989)","st":1989,"a":["Taylor Alison Swift"]}
 {"q":"Q83287","t":"Selena Gomez","s":174,"entity_type":"person","d":"American singer and actress (born 1992)","st":1992,"a":["Selena Marie Gomez"]}
@@ -717,9 +467,6 @@
 {"q":"Q36153","t":"Beyoncé","s":173,"entity_type":"person","d":"American singer, songwriter, record producer, and dancer (born 1981)","st":1981,"a":["Beyoncé Giselle Knowles-Carter","Beyoncé Knowles","Beyoncé Giselle Knowles","Third Ward Trill","Queen B","Queen Bey","Harmonies by the Hive"]}
 {"q":"Q8006","t":"Akira Kurosawa","s":173,"entity_type":"person","d":"Japanese filmmaker (1910–1998)","st":1910,"e":1998,"a":["Kurosawa Akira","Kurosawa"]}
 {"q":"Q23355","t":"8","s":173,"entity_type":"entity","d":"natural number","a":["ⅷ","VIII","The number 8","៨","eight"]}
-{"q":"Q7765","t":"1788","s":173,"entity_type":"entity","d":"year"}
-{"q":"Q7611","t":"1750","s":173,"entity_type":"entity","d":"year","a":["Kan'en 3 (1750)"]}
-{"q":"Q7580","t":"1743","s":173,"entity_type":"entity","d":"year"}
 {"q":"Q431","t":"zoology","s":172,"entity_type":"entity","d":"scientific study of animals","a":["animal biology","animal science","zoological science"]}
 {"q":"Q771405","t":"South Asia","s":172,"entity_type":"entity","d":"southern region of Asia","a":["Southern Asia","Asia, Southern","S Asia","South Asian region","S. Asia","Greater South Asia"]}
 {"q":"Q24384","t":"season","s":172,"entity_type":"entity","d":"weather- or climate-based subdivision of the year","a":["seasons"]}
@@ -736,13 +483,9 @@
 {"q":"Q9387","t":"Max Weber","s":171,"entity_type":"person","d":"German sociologist, philosopher, and political economist (1864–1920)","st":1864,"e":1920}
 {"q":"Q8","t":"happiness","s":171,"entity_type":"entity","d":"positive emotional state","a":["happy","gladness","glad"]}
 {"q":"Q3863","t":"asteroid","s":171,"entity_type":"entity","d":"minor planet of the inner Solar System; not a comet","a":["planetoid","asteroids"]}
-{"q":"Q7618","t":"1752","s":171,"entity_type":"entity","d":"year"}
-{"q":"Q6942","t":"1727","s":171,"entity_type":"entity","d":"year"}
 {"q":"Q1149","t":"Indira Gandhi","s":170,"entity_type":"person","d":"Prime Minister of India (1966-1977; 1980-1984)","st":1917,"e":1984,"a":["Indira Nehru","Indira Priyadarshini Gandhi","Indira Priyadarshini Nehru","Indira Ghandi","Gandhi Indira","Nehru Indira","Indira Feroze Gandhi","indira gandi"]}
 {"q":"Q7312","t":"Franz Schubert","s":170,"entity_type":"person","d":"Austrian composer (1797–1828)","st":1797,"e":1828,"a":["Franz Peter Schubert","Schubert"]}
 {"q":"Q7015","t":"18th century","s":170,"entity_type":"entity","d":"time period between January 1, 1701, and December 31, 1800","st":1701,"e":1800,"a":["18th-century","Eighteenth Century","History, 18th Century"]}
-{"q":"Q7692","t":"1773","s":170,"entity_type":"entity","d":"year"}
-{"q":"Q6966","t":"1732","s":170,"entity_type":"entity","d":"year"}
 {"q":"Q8877","t":"Steven Spielberg","s":169,"entity_type":"person","d":"American filmmaker (born 1946)","st":1946,"a":["Steven Allan Spielberg"]}
 {"q":"Q6512","t":"Søren Kierkegaard","s":169,"entity_type":"person","d":"Danish theologian, philosopher, poet and social critic (1813–1855)","st":1813,"e":1855,"a":["Kierkegaard","Søren Aabye Kierkegaard","Victor Eremita","Climacus","Anti-Climacus","Sören Aaby Kierkegaard"]}
 {"q":"Q2471","t":"Sanaa","s":169,"entity_type":"city","d":"capital city of Yemen","a":["Sana","Ṣanʻāʼ","San'a'","Ṣanʿāʾ","Sana'a"]}
@@ -753,21 +496,12 @@
 {"q":"Q9415","t":"emotion","s":169,"entity_type":"entity","d":"biological states associated with the nervous system","a":["emotions"]}
 {"q":"Q23530","t":"Dmitry Medvedev","s":169,"entity_type":"person","d":"President of Russia from 2008 to 2012, Prime Minister of Russia (2012-2020) and Deputy Chairman of the Security Council of Russia since 2020","st":1965,"a":["Dima Medvedev","Dmitry A. Medvedev","Dmitrij Medvedev","Dmitrij Anatoljevič Medvedev","Dmitrij Anatolevič Medvedev","Dimitrij medvedev","Dimitry Medvedev","Dmitriy Anatolyevich Medvedev","President Medvedev","Dmitri A. Medvedev","Dmitrij Anatol'evic Medvedev","Dmitrij Anatolevic Medvedev","Medvedev","Dmitrij Anatol′evič Medvedev","Dmitry Anatolyevich Medvedev","Medwedew","Dmitri Anatolyevich Medvedev","Dmitrij Anatoljevic Medvedev","Medvediev","Dimitri Medvedev","Dmitri Medvedev","Dmitriy Medvedev","Dmitrij Anatol'evič Medvedev"]}
 {"q":"Q1889","t":"diplomacy","s":169,"entity_type":"entity","d":"art and practice of conducting negotiations between representatives of groups or states"}
-{"q":"Q7690","t":"1772","s":169,"entity_type":"entity","d":"year"}
-{"q":"Q7675","t":"1768","s":169,"entity_type":"entity","d":"year"}
-{"q":"Q7665","t":"1765","s":169,"entity_type":"entity","d":"year"}
-{"q":"Q7589","t":"1746","s":169,"entity_type":"entity","d":"year"}
-{"q":"Q7006","t":"1740","s":169,"entity_type":"entity","d":"year"}
 {"q":"Q9270","t":"Thimphu","s":168,"entity_type":"city","d":"capital of Bhutan","st":1955,"a":["Thimpu","ཐིམ་ཕུ་"]}
 {"q":"Q11466","t":"temperature","s":168,"entity_type":"entity","d":"physical property of matter that quantitatively expresses the common notions of hot and cold","a":["temp"]}
 {"q":"Q7282241","t":"Rafael Orozco Maestre","s":168,"entity_type":"person","d":"Colombian singer (1954-1992)","st":1954,"e":1992,"a":["Rafael José Orozco Maestre"]}
 {"q":"Q23492","t":"official language","s":168,"entity_type":"entity","d":"language given special status in some polity","a":["official communication language","official state language","official dialect","official languages","administrative language","state language"]}
 {"q":"Q16572","t":"Guangzhou","s":168,"entity_type":"entity","d":"capital city of Guangdong Province, China","a":["Canton","Kwangchow","Kwongchow","Kuang-chou","Can-ton","Kwangtong","Kwang-tong","Guang Zhou Shi","Guangzhou Shi","Guang","Kuang","Kwang","Yangcheng","Yang-ch’êng","Yang-cheng","Yang-ch'eng","Pan","P'an","Punyü","Pun-yü","P'an-yü","Pan-yü","Panyu","P'an-yu","Pan-yu"]}
 {"q":"Q7162","t":"genetics","s":168,"entity_type":"entity","d":"science of genes, heredity, and variation in living organisms","st":1900,"a":["genetic science"]}
-{"q":"Q7649","t":"1761","s":168,"entity_type":"entity","d":"year"}
-{"q":"Q7621","t":"1753","s":168,"entity_type":"entity","d":"year","a":["Hōreki 3"]}
-{"q":"Q7607","t":"1749","s":168,"entity_type":"entity","d":"year"}
-{"q":"Q7573","t":"1741","s":168,"entity_type":"entity","d":"year"}
 {"q":"Q8740","t":"Vietnam War","s":167,"entity_type":"entity","d":"armed conflict in Vietnam, Laos, and Cambodia between North Vietnam and South Vietnam, from 1955 to 1975","st":1955,"e":1975,"a":["American War","Second Indochina War","American War in Vietnam"]}
 {"q":"Q907112","t":"Transnistria","s":167,"entity_type":"entity","d":"Russian-occupied territory in Moldova","st":1991,"a":["PMR","Transdniester","Trans-Dniestr","Transdniestria","Pridnestrovie","Pridnestrovian Moldavian Republic","Pridnestrovia","Pridnestria","Transdniestrian Moldavian Republic","Moldavian Republic of Transdniestria","Republic of Pridnestrovie","Transnistrian Moldavian Republic"]}
 {"q":"Q716","t":"titanium","s":167,"entity_type":"entity","d":"chemical element with symbol Ti and atomic number 22","a":["element 22","22Ti"]}
@@ -782,10 +516,6 @@
 {"q":"Q39397","t":"axe","s":167,"entity_type":"entity","d":"weapon or tool consisting of a shaft, with a head attached at a parallel angle that is used primarily for chopping, splitting, or shaping materials","a":["ax"]}
 {"q":"Q16559","t":"Austin","s":167,"entity_type":"entity","d":"seat of Travis County, and capital of the State of Texas","st":1835,"a":["Austin, Texas","Austin, TX"]}
 {"q":"Q696","t":"argon","s":167,"entity_type":"entity","d":"chemical element with symbol Ar and atomic number 18; rare gas","a":["Ar","element 18","18Ar"]}
-{"q":"Q7714","t":"1779","s":167,"entity_type":"entity","d":"year"}
-{"q":"Q6871","t":"1712","s":167,"entity_type":"entity","d":"year"}
-{"q":"Q6857","t":"1709","s":167,"entity_type":"entity","d":"year"}
-{"q":"Q6912","t":"1642","s":167,"entity_type":"entity","d":"year"}
 {"q":"Q17293","t":"Tenzin Gyatso","s":166,"entity_type":"person","d":"14th Dalai Lama","st":1935,"a":["Lhamo Dondrub","Jetsun Jamphel Ngawang Lobsang Yeshe Tenzin Gyatso","Dalai Lama","Tendzin Gyatso","Lhamo Dhondup","Lhamo Tönzhub","Gyalwa Rinpoche"]}
 {"q":"Q9377","t":"kidney","s":166,"entity_type":"entity","d":"internal organ in most animals, including vertebrates and some invertebrates"}
 {"q":"Q504","t":"Émile Zola","s":166,"entity_type":"person","d":"French novelist, journalist, playwright, and poet (1840–1902)","st":1840,"e":1902,"a":["Émile Édouard Charles Antoine Zola"]}
@@ -793,8 +523,6 @@
 {"q":"Q4583","t":"Anne Frank","s":166,"entity_type":"person","d":"German-born Dutch Jewish diarist and Holocaust victim (1929–1945)","st":1929,"e":1945,"a":["Anna Frank","Anne Maries Frank","Anne M. Frank","Annelies Marie Frank","Anna M Frank"]}
 {"q":"Q8597","t":"Akbar","s":166,"entity_type":"person","d":"the third and greatest Mughal emperor from 1556 to 1605","st":1542,"e":1605,"a":["Jalal-ud-Din Muhammad Akbar","Akbar the Great","Akbar Mahan","Abu'l-Fath Jalal-ud-din Muhammad Akbar","Akbar I"]}
 {"q":"Q43423","t":"Aesop","s":166,"entity_type":"person","d":"ancient Greek storyteller (619 BC–563 BC)","st":620,"e":564,"a":["Aesopus","Esop","Æsop","Eſope","Æſop"]}
-{"q":"Q6814","t":"1701","s":166,"entity_type":"entity","d":"year"}
-{"q":"Q6788","t":"1616","s":166,"entity_type":"entity","d":"year"}
 {"q":"Q23806","t":"10","s":166,"entity_type":"entity","d":"natural number","a":["ⅹ","𐌢","ten"]}
 {"q":"Q1273","t":"Tuscany","s":165,"entity_type":"entity","d":"region in central Italy","a":["Toscana"]}
 {"q":"Q4169","t":"outer space","s":165,"entity_type":"entity","d":"void between celestial bodies","a":["space","deep space","exosphere","extra-atmospheric space"]}
@@ -804,10 +532,6 @@
 {"q":"Q3908","t":"Galicia","s":165,"entity_type":"entity","d":"autonomous community of Spain","st":1981,"a":["Galiza","Galicia (Spain)"]}
 {"q":"Q32112","t":"boxing","s":165,"entity_type":"entity","d":"combat sport and martial art","a":["pugilism"]}
 {"q":"Q7768","t":"Association of Southeast Asian Nations","s":165,"entity_type":"entity","d":"international organisation of Southeast Asian countries","st":1967,"a":["Association of South-East Asian Nations"]}
-{"q":"Q7600","t":"1748","s":165,"entity_type":"entity","d":"year"}
-{"q":"Q6977","t":"1734","s":165,"entity_type":"entity","d":"year"}
-{"q":"Q6913","t":"1721","s":165,"entity_type":"entity","d":"year"}
-{"q":"Q6878","t":"1714","s":165,"entity_type":"entity","d":"year"}
 {"q":"Q1734","t":"volleyball","s":164,"entity_type":"entity","d":"team sport","st":1947}
 {"q":"Q3889","t":"Maputo","s":164,"entity_type":"city","d":"capital and chief port of Mozambique","st":1781,"a":["Lourenço Marques","Cam Phumo"]}
 {"q":"Q3881","t":"Lusaka","s":164,"entity_type":"city","d":"capital of Zambia","st":1905}
@@ -816,9 +540,6 @@
 {"q":"Q297","t":"Diego Velázquez","s":164,"entity_type":"person","d":"Spanish painter (1599-1660)","st":1599,"e":1660}
 {"q":"Q24879","t":"Bremen","s":164,"entity_type":"entity","d":"city in the Bremen federated state, Germany","a":["City Municipality of Bremen","Hansestadt Bremen"]}
 {"q":"Q409","t":"Bob Marley","s":164,"entity_type":"person","d":"Jamaican reggae musician (1945–1981)","st":1945,"e":1981,"a":["Donald Marley","Nesta Robert Marley","Tuff Gong","Bab Maali","Rabat Nesta Maali","Robert Nesta \"Bob\" Marley","Robert Marley"]}
-{"q":"Q6957","t":"1730","s":164,"entity_type":"entity","d":"year"}
-{"q":"Q6902","t":"1719","s":164,"entity_type":"entity","d":"year"}
-{"q":"Q6720","t":"1600","s":164,"entity_type":"entity","d":"year","a":["1600 AD","1600 CE"]}
 {"q":"Q5413","t":"Yangtze","s":163,"entity_type":"entity","d":"Longest river in Asia, and the third-longest in the world","a":["Chang Jiang","Changjiang","Yangzi","Yangtze River","Changjiang River","Chang Jiang River","Yang-tsze-kiang","Jiang","Kiang","Blue River","Yang-tze","Yang-tse","Yang-tsze","Yang-tse River","Yang-tze River","Yangtse River","Yangtsze River","Jiang River","Kiang River","Yangzi River","Kyang","Kyang River","Yan-tse","Kian","Yan-tse-kian","Yantse Kiang","Yangtzekiang","Ch'ang Chiang","Yangtse-chiang"]}
 {"q":"Q34396","t":"soap","s":163,"entity_type":"entity","d":"salt of fatty acids, used for washing and cleaning","a":["soaps"]}
 {"q":"Q132345","t":"Shinzō Abe","s":163,"entity_type":"person","d":"Prime Minister of Japan from 2006–2007 and 2012–2020 (1954–2022)","st":1954,"e":2022,"a":["Shinzo Abe","Shinzou Abe","Abe Shinzou","Abe Shinzō","Abe Shinzo"]}
@@ -826,7 +547,6 @@
 {"q":"Q59","t":"PHP","s":163,"entity_type":"entity","d":"scripting language focused on web development","st":1995,"a":["PHP programming language","PHP Hypertext Preprocessor"]}
 {"q":"Q586","t":"Bonn","s":163,"entity_type":"entity","d":"city in Germany and capital of former West Germany","a":["Bonn, Germany","Bonn, West Germany","Federal City of Bonn"]}
 {"q":"Q2256","t":"Birmingham","s":163,"entity_type":"entity","d":"city in the West Midlands, England","st":601,"a":["Birmingham, England","Birmingham, West Midlands","Birmingham, UK"]}
-{"q":"Q6901","t":"1640","s":163,"entity_type":"entity","d":"year"}
 {"q":"Q959","t":"Vladivostok","s":162,"entity_type":"entity","d":"Russian city and the administrative center of Primorsky Krai","st":1860,"a":["Port-May","Haishenwei","Vladyvostok"]}
 {"q":"Q58697","t":"Sus scrofa","s":162,"entity_type":"taxon","d":"omnivore species of mammal","a":["pig","boar","wild swine","Eurasian wild pig","European wild boar","European wild pig","Eurasian wild boar","wild boar","wild pig"]}
 {"q":"Q37151","t":"Sun Tzu","s":162,"entity_type":"person","d":"6th century BCE Chinese general and military strategist","st":544,"e":496}
@@ -839,7 +559,6 @@
 {"q":"Q16397","t":"Bruce Lee","s":162,"entity_type":"person","d":"Hong Kong–American martial artist and actor (1940–1973)","st":1940,"e":1973,"a":["Lee Jun-fan"]}
 {"q":"Q3726","t":"Banjul","s":162,"entity_type":"city","d":"capital of The Gambia","st":1816,"a":["City of Banjul","Bathurst"]}
 {"q":"Q5670","t":"Abu Nuwas","s":162,"entity_type":"person","d":"8th-century classical Arabic poet","st":756,"e":814,"a":["Abū Nuwās al-Ḥasan ibn Hānī al-Ḥakamī","Abū Nuwās","Abu Nuvos"]}
-{"q":"Q6895","t":"1717","s":162,"entity_type":"entity","d":"year"}
 {"q":"Q34800","t":"Xinjiang","s":161,"entity_type":"entity","d":"autonomous region in China","st":1955,"a":["Xinjiang Uyghur Autonomous Region","Xinjiang Uighur Autonomous Region","XUAR","Xinjiang Province","Sinkiang","Sinkeang","Hsin-chiang","Chinese Turkestan","Xibei","Northwest","Chinese Northwest","Northwest China","CN-65","Northwest Ethnic Area"]}
 {"q":"Q25241","t":"Vertebrata","s":161,"entity_type":"taxon","d":"a subphylum of Chordata characterized by the presence of a vertebral column, or backbone, which replaces the notochord during development","st":5250,"a":["animals with backbone","subphylum vertebrate","vertibrate","vertebrates","subphylum Vertebrata","vertebrate"]}
 {"q":"Q34442","t":"road","s":161,"entity_type":"entity","d":"wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use","a":["track","route","roadway"]}
@@ -851,11 +570,6 @@
 {"q":"Q36963","t":"hunting","s":161,"entity_type":"song","d":"human activity of searching for, pursuing, and catching wild animals","st":1800,"a":["hunt","stalking"]}
 {"q":"Q10690","t":"Cardiff","s":161,"entity_type":"entity","d":"capital city of Wales, United Kingdom","st":1081,"a":["Caerdydd","Cardiff, Wales","Cardiff, South Glamorgan","Cardiff, United Kingdom","Cardiff, UK"]}
 {"q":"Q10686","t":"Belfast","s":161,"entity_type":"city","d":"capital city of Northern Ireland","a":["Béal Feirste","Beal Feirste","Belfast, Northern Ireland"]}
-{"q":"Q7585","t":"1666","s":161,"entity_type":"entity","d":"year"}
-{"q":"Q6930","t":"1646","s":161,"entity_type":"entity","d":"year"}
-{"q":"Q6856","t":"1630","s":161,"entity_type":"entity","d":"year"}
-{"q":"Q6747","t":"1606","s":161,"entity_type":"entity","d":"year"}
-{"q":"Q6632","t":"1564","s":161,"entity_type":"entity","d":"year"}
 {"q":"Q32789","t":"zebra","s":160,"entity_type":"taxon","d":"African subgenus of Equus of the horse family","a":["zebras"]}
 {"q":"Q1721","t":"Wiesbaden","s":160,"entity_type":"entity","d":"capital of the German state of Hesse"}
 {"q":"Q36303","t":"Thales","s":160,"entity_type":"person","d":"ancient Greek philosopher and mathematician","st":650,"e":548,"a":["Thales of Miletus"]}
@@ -877,10 +591,6 @@
 {"q":"Q9279","t":"Bandar Seri Begawan","s":160,"entity_type":"city","d":"capital and largest city of Brunei","a":["Bandar","BSB","Seri Begawan","Brunei Town","Bandar Brunei"]}
 {"q":"Q12892","t":"Antwerp","s":160,"entity_type":"entity","d":"municipality in the province of Antwerp, Belgium","a":["City of Antwerp","Anvers","Antwerpen"]}
 {"q":"Q34286","t":"Alexander Graham Bell","s":160,"entity_type":"person","d":"Canadian-American scientist inventor of telephone (1847–1922)","st":1847,"e":1922,"a":["Alexander G. Bell","Graham Bell","Alexander Bell","H. A. Largelamb"]}
-{"q":"Q6865","t":"1632","s":160,"entity_type":"entity","d":"year"}
-{"q":"Q6758","t":"1608","s":160,"entity_type":"entity","d":"year"}
-{"q":"Q6735","t":"1603","s":160,"entity_type":"entity","d":"year"}
-{"q":"Q6126","t":"1500","s":160,"entity_type":"entity","d":"year"}
 {"q":"Q722","t":"vanadium","s":159,"entity_type":"entity","d":"chemical element with symbol V and atomic number 23","a":["V","element 23","23V"]}
 {"q":"Q34178","t":"theology","s":159,"entity_type":"entity","d":"study of the nature of deities and religious beliefs"}
 {"q":"Q43347","t":"Rumi","s":159,"entity_type":"person","d":"Iranian poet","st":1207,"e":1273,"a":["Jalāluddīn Balkhī Rumī","Jalaladdin Rumi","Jalāluddīn Muḥammad Balkhī Rūmī","Jalāl ad-Dīn ar-Rūmī","Jalāl al-Dīn Muḥammad ibn Muḥammad Balkhī","Jalāladdīn Rūmī","Rūmī","Jalal-e Din Rumi","Jallal ed-Din Muhammad Balkhy","Mawlana Rumi","Jalāl al-Dīn Rūmī","Jelaluddin Rumi","Mawlawi","Jalaluddin Rumi","Mevlana Jalaluddin Rumi","Jalāl-ad-dīn Rūmī"]}
@@ -893,9 +603,6 @@
 {"q":"Q34692","t":"Kingston","s":159,"entity_type":"city","d":"capital of Jamaica","st":1692,"a":["Kingston, Jamaica","Kingston, Surrey"]}
 {"q":"Q2105","t":"Jacques Chirac","s":159,"entity_type":"person","d":"President of France from 1995 to 2007","st":1932,"e":2019}
 {"q":"Q1891","t":"Bologna","s":159,"entity_type":"entity","d":"city and commune in Emilia-Romagna, Italy","a":["Bologna, Italy"]}
-{"q":"Q7710","t":"1699","s":159,"entity_type":"entity","d":"year"}
-{"q":"Q6982","t":"1656","s":159,"entity_type":"entity","d":"year"}
-{"q":"Q6725","t":"1601","s":159,"entity_type":"entity","d":"year"}
 {"q":"Q1799","t":"Wrocław","s":158,"entity_type":"entity","d":"city in the Lower Silesian Voivodeship, southwestern Poland, and historical capital of Silesia","st":1214,"a":["Breslau","Brassel","Wroclaw","Wratislavia"]}
 {"q":"Q466","t":"World Wide Web","s":158,"entity_type":"entity","d":"global system of interlinked hypertext documents accessed via the Internet","a":["the Web","the World Wide Web"]}
 {"q":"Q9482","t":"squirrel","s":158,"entity_type":"taxon","d":"family of rodents","a":["squirrel family","squirrels","Sciuridae","sciurids"]}
@@ -912,15 +619,6 @@
 {"q":"Q5105","t":"Céline Dion","s":158,"entity_type":"person","d":"Canadian singer (born 1968)","st":1968,"a":["Celine Marie Claudette Dion","Céline Marie Claudette Dion"]}
 {"q":"Q11946202","t":"butterfly","s":158,"entity_type":"entity","d":"group of insects in the order Lepidoptera","a":["butterflies","butterflys"]}
 {"q":"Q34474","t":"Aleksandr Solzhenitsyn","s":158,"entity_type":"person","d":"Russian writer, publicist, poet and politician (1918–2008)","st":1918,"e":2008,"a":["Aleksandr Isayevich Solzhenitsyn","Alexander Solzhenitsyn","Aleksander Solzhenitsyn","Alexander Isayevich Solzhenitsyn"]}
-{"q":"Q7696","t":"1695","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q7685","t":"1692","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q7671","t":"1688","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q7588","t":"1667","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q7581","t":"1664","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q6975","t":"1655","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q6801","t":"1618","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q6756","t":"1607","s":158,"entity_type":"entity","d":"year"}
-{"q":"Q6284","t":"1520","s":158,"entity_type":"entity","d":"year"}
 {"q":"Q35149","t":"Wilhelm Röntgen","s":157,"entity_type":"person","d":"German physicist (1845–1923)","st":1845,"e":1923,"a":["Wilhelm Conrad Röntgen","W. C. Röntgen","Wilhelm Konrad von Röntgen","Wilhelm Roentgen"]}
 {"q":"Q914","t":"Volgograd","s":157,"entity_type":"entity","d":"city and administrative center of Volgograd Oblast in southern Russia","st":1589,"a":["Stalingrad","Tsaritsyn"]}
 {"q":"Q33609","t":"Ursus maritimus","s":157,"entity_type":"taxon","d":"species of bear native largely within the Arctic Circle","a":["ice bear","white bear","polar bear"]}
@@ -935,11 +633,6 @@
 {"q":"Q5377","t":"golf","s":157,"entity_type":"entity","d":"club-and-ball sport"}
 {"q":"Q1107656","t":"garden","s":157,"entity_type":"entity","d":"planned space set aside for the display, cultivation and enjoyment of plants","a":["gardens"]}
 {"q":"Q15026","t":"chair","s":157,"entity_type":"entity","d":"piece of furniture for sitting on","a":["seat"]}
-{"q":"Q7574","t":"1662","s":157,"entity_type":"entity","d":"year"}
-{"q":"Q6826","t":"1625","s":157,"entity_type":"entity","d":"year"}
-{"q":"Q6818","t":"1623","s":157,"entity_type":"entity","d":"year"}
-{"q":"Q6784","t":"1615","s":157,"entity_type":"entity","d":"year"}
-{"q":"Q6547","t":"1547","s":157,"entity_type":"entity","d":"year"}
 {"q":"Q8641","t":"Yiddish","s":156,"entity_type":"entity","d":"High German-derived language used by Ashkenazi Jews","a":["Yidish","Idish","Yidish-Taitsh","Judaeo-German","Ashkenazish language","Judeo-German","Yidish Taytsh","Yiddish language"]}
 {"q":"Q12567","t":"Vikings","s":156,"entity_type":"entity","d":"Norse people, farmers, merchants, explorers, raiders and pirates","st":745}
 {"q":"Q3238","t":"Tegucigalpa","s":156,"entity_type":"entity","d":"capital and largest city of Honduras","st":1578}
@@ -956,17 +649,6 @@
 {"q":"Q8413","t":"Constantine the Great","s":156,"entity_type":"person","d":"Roman emperor from 306 to 337 and first to convert to Christianity (272–337)","st":272,"e":337,"a":["Constantine I","Saint Constantine","Gaius Flavius Valerius Aurelius Constantinus","Flavius Valerius Aurelius Constantinus Augustus","Constantinus I","Constantine","Gaius Flavius Valerius Constantinus","Imperator Caesar Flavius Valerius Aurelius Constantinus Augustus","Lucius Flavius Valerius Constantinus","Marcus Flavius Valerius Constantinus","Flavius Valerius Constantinus","Flavius Constantinus","Flavius Valerius Aurelius Constantinus","Trachala"]}
 {"q":"Q7167","t":"colonialism","s":156,"entity_type":"entity","d":"domination, control, and exploitation of a territory and its people by a foreign power often accompanied by the settlement of other peoples and crimes against humanity"}
 {"q":"Q879","t":"bromine","s":156,"entity_type":"entity","d":"chemical element with symbol Br and atomic number 35","a":["Br","element 35","₃₅Br"]}
-{"q":"Q7634","t":"1678","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6991","t":"1658","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6962","t":"1652","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6885","t":"1636","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6860","t":"1631","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6821","t":"1624","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6727","t":"1602","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6653","t":"1569","s":156,"entity_type":"entity","d":"year","a":["Eiroku 12 (1569)"]}
-{"q":"Q6288","t":"1521","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6154","t":"1506","s":156,"entity_type":"entity","d":"year"}
-{"q":"Q6137","t":"1502","s":156,"entity_type":"entity","d":"year"}
 {"q":"Q3768","t":"Yamoussoukro","s":155,"entity_type":"entity","d":"city of côte d'ivoire"}
 {"q":"Q12876","t":"tank","s":155,"entity_type":"entity","d":"armoured fighting vehicle intended as a primary offensive weapon in front-line ground combat","a":["military tank","combat tank","panzer"]}
 {"q":"Q34436","t":"Scarlett Johansson","s":155,"entity_type":"person","d":"American actress (born 1984)","st":1984,"a":["Scarlett Ingrid Johansson"]}
@@ -979,12 +661,6 @@
 {"q":"Q48305","t":"Euripides","s":155,"entity_type":"person","d":"Classical Athenian playwright","st":480,"e":406}
 {"q":"Q12117","t":"cereal","s":155,"entity_type":"entity","d":"grass cultivated for its edible grain","a":["cereals","cereal crop"]}
 {"q":"Q94","t":"Android","s":155,"entity_type":"entity","d":"operating system created by Google for use on mobile devices","st":2008}
-{"q":"Q7642","t":"1680","s":155,"entity_type":"entity","d":"year"}
-{"q":"Q7577","t":"1663","s":155,"entity_type":"entity","d":"year"}
-{"q":"Q6810","t":"1620","s":155,"entity_type":"entity","d":"year"}
-{"q":"Q6482","t":"1540","s":155,"entity_type":"entity","d":"year","a":["MDXL"]}
-{"q":"Q6141","t":"1503","s":155,"entity_type":"entity","d":"year"}
-{"q":"Q6460","t":"1452","s":155,"entity_type":"entity","d":"year"}
 {"q":"Q6388","t":"swimming","s":154,"entity_type":"entity","d":"self propulsion of a person through water or other liquid; mainly on the water surface","a":["human swimming"]}
 {"q":"Q2001","t":"Stanley Kubrick","s":154,"entity_type":"person","d":"American filmmaker (1928–1999)","st":1928,"e":1999,"a":["Kubrick"]}
 {"q":"Q3887","t":"solar eclipse","s":154,"entity_type":"entity","d":"natural phenomenon wherein the Sun is obscured by the Moon"}
@@ -998,3 +674,327 @@
 {"q":"Q7348","t":"Indus River","s":154,"entity_type":"entity","d":"river in Asia","a":["Sindhu River","Sindh River","Mehran River","River Indus","Indus R.","R. Indus","Indus"]}
 {"q":"Q9893","t":"I/i","s":154,"entity_type":"entity","d":"9th letter of the basic Latin alphabet","a":["i","ˈaɪ","ɪ","I"]}
 {"q":"Q1061","t":"Gujarat","s":154,"entity_type":"entity","d":"state of India","st":1960,"a":["State of Gujarat","Guzerat","Guzeratte"]}
+{"q":"Q56434717","t":"Greta Thunberg","s":154,"entity_type":"person","d":"Swedish climate protection activist (born 2003)","st":2003,"a":["Greta Ernman Thunberg","Greta Tintin Eleonora Ernman Thunberg"]}
+{"q":"Q9581","t":"Confucianism","s":154,"entity_type":"entity","d":"Chinese ethical and philosophical system","a":["Ruism","Rujiao","Sect of Confucius"]}
+{"q":"Q13187","t":"Cocos nucifera","s":154,"entity_type":"taxon","d":"species of plant","st":5500,"a":["coconut palm","coconut tree","coconut","cocoanut","coconut palm tree"]}
+{"q":"Q1458","t":"Calabria","s":154,"entity_type":"entity","d":"region of Italy","a":["Calabria region"]}
+{"q":"Q1091","t":"cadmium","s":154,"entity_type":"entity","d":"chemical element with symbol Cd and atomic number of 48","a":["Cd","element 48","48Cd"]}
+{"q":"Q5710","t":"Bashkortostan","s":154,"entity_type":"entity","d":"federal subject of Russia","st":1990,"a":["Bashkiria","Bashkiriya","Republic of Bashkortostan","Bashkortostan Republic"]}
+{"q":"Q37038","t":"advertising","s":154,"entity_type":"entity","d":"form of communication for marketing, typically paid for","a":["ad","advert","advertisement"]}
+{"q":"Q1515","t":"Abidjan","s":154,"entity_type":"entity","d":"major city and economic capital of Côte d'Ivoire","st":1898}
+{"q":"Q9751","t":"Z/z","s":153,"entity_type":"entity","d":"26th letter of the basic Latin alphabet","a":["Z","z","zed","zee","zad","Zulu","izard","izzard","zulu"]}
+{"q":"Q40213","t":"William Butler Yeats","s":153,"entity_type":"person","d":"Irish poet and playwright (1865–1939)","st":1865,"e":1939,"a":["W. B. Yeats","William Yeats","W.B. Yeats","WBY"]}
+{"q":"Q10850","t":"Rodentia","s":153,"entity_type":"taxon","d":"order of mammals","st":5600,"a":["the rodents","rodent","rodents"]}
+{"q":"Q10132","t":"Rafael Nadal","s":153,"entity_type":"person","d":"Spanish tennis player (born 1986)","st":1986,"a":["Rafael Nadal Parera","Rafa Nadal","Rafa"]}
+{"q":"Q36526","t":"Port Moresby","s":153,"entity_type":"entity","d":"capital of Papua New Guinea","st":1873}
+{"q":"Q23691","t":"national anthem","s":153,"entity_type":"entity","d":"song that represents a country or sovereign state","a":["state anthem","national hymn"]}
+{"q":"Q32732","t":"Malala Yousafzai","s":153,"entity_type":"person","d":"Pakistani children's education activist","st":1997}
+{"q":"Q531","t":"light-year","s":153,"entity_type":"entity","d":"unit of astronomical length, defined as the distance that light travels in the vacuum in one year","a":["ly","light year","lightyear","l.y.","light-years","lightyears","light years"]}
+{"q":"Q9773","t":"J/j","s":153,"entity_type":"entity","d":"10th letter of the basic Latin alphabet","a":["j","jay","i with hook","initial i with hook","ᴊ","Juliett","Juliet","letter J","J","juliett","juliet"]}
+{"q":"Q3396208","t":"HotCat","s":153,"entity_type":"entity","d":"JavaScript program which helps to easily remove, change and add categories to Wikimedia pages","a":["Wikipedia:HotCat","Help:HotCat","Project:HotCat","Commons:HotCat","Gadget:HotCat"]}
+{"q":"Q34006","t":"Hollywood","s":153,"entity_type":"entity","d":"neighborhood in Los Angeles, California, United States","a":["Hollywood, Los Angeles","Hollywood, California","Hollywood, CA","Tinseltown"]}
+{"q":"Q31063","t":"Christmas Island","s":153,"entity_type":"entity","d":"island and external territory of Australia, located in the Indian Ocean","st":1958,"a":["Christmas Island, Other Territories","Christmas Island, Other Territories, Australia","Territory of Christmas Island","cx"]}
+{"q":"Q36279","t":"biography","s":153,"entity_type":"entity","d":"written account of a person's life","a":["bio"]}
+{"q":"Q1253","t":"Ban Ki-moon","s":153,"entity_type":"person","d":"8th Secretary-General of the United Nations","st":1944,"a":["Ban Kimoon","Ban Ki Moon","Ki-moon Ban","H.E. Ban Ki-moon","HE Ban Ki Moon"]}
+{"q":"Q11409","t":"apartheid","s":153,"entity_type":"entity","d":"system of racial segregation and oppression in South Africa, introduced in 1948 by D.F. Malan and abolished between 1990 and 1994 by F.W. de Klerk","st":1948,"e":1991,"a":["racial segregation"]}
+{"q":"Q1099","t":"antimony","s":153,"entity_type":"entity","d":"chemical element with symbol Sb and atomic number of 51","a":["Sb","element 51","51Sb"]}
+{"q":"Q9964","t":"W/w","s":152,"entity_type":"entity","d":"23rd letter of the basic Latin alphabet","a":["w","double-u","Whiskey","dubs","ᴡ","Double-V","Double V","W","whiskey"]}
+{"q":"Q1243","t":"Veneto","s":152,"entity_type":"entity","d":"region in Italy","st":1970}
+{"q":"Q9956","t":"S/s","s":152,"entity_type":"entity","d":"19th letter of the basic Latin alphabet","a":["s","ess","Sierra","ꜱ","letter S","S-5","S","sierra"]}
+{"q":"Q11012","t":"robot","s":152,"entity_type":"entity","d":"mechanical or virtual artificial agent carrying out physical activities, which can be guided by an external control device or the control may be embedded within","a":["robo","🤖","bot"]}
+{"q":"Q10931","t":"revolution","s":152,"entity_type":"entity","d":"fundamental change in power or organizational structures that takes place in a relatively short period of time"}
+{"q":"Q35942","t":"Polynesia","s":152,"entity_type":"entity","d":"subregion of Oceania","a":["Polynesian Triangle"]}
+{"q":"Q9946","t":"P/p","s":152,"entity_type":"entity","d":"16th letter of the basic Latin alphabet","a":["p","pee","ᴘ","P","Papa","papa"]}
+{"q":"Q5812","t":"Novak Djokovic","s":152,"entity_type":"person","d":"Serbian tennis player","st":1987,"a":["Djoker","Serbinator","Novak Đoković","Новак Ђоковић","Novak Djoković","Nole","Djokovic"]}
+{"q":"Q9937","t":"N/n","s":152,"entity_type":"entity","d":"14th letter of the basic Latin alphabet","a":["n","ⁿ","ₙ","en","ɴ","letter N","N-5","N","November","november"]}
+{"q":"Q9327","t":"Guy de Maupassant","s":152,"entity_type":"person","d":"French writer (1850-1893)","st":1850,"e":1893,"a":["Henri René Albert Guy de Maupassant","Guy de Valmont","Joseph Prunier"]}
+{"q":"Q107388","t":"Gospel of Mark","s":152,"entity_type":"work","d":"canonical Gospel of the New Testament","a":["Mark","Gospel according to Mark"]}
+{"q":"Q867","t":"germanium","s":152,"entity_type":"entity","d":"chemical element with symbol Ge and atomic number 32","a":["Ge","element 32","32Ge"]}
+{"q":"Q41980","t":"Democritus","s":152,"entity_type":"person","d":"Greek philosopher (c. 460–c. 370 BC)","st":460,"e":360,"a":["Democritus of Abdera","Laughing Philosopher","Demokritos"]}
+{"q":"Q27433","t":"Central Africa","s":152,"entity_type":"entity","d":"core region of the African continent","a":["Middle Africa"]}
+{"q":"Q7903","t":"Casablanca","s":152,"entity_type":"city","d":"largest city of Morocco","a":["Anfa","Dar el-Beida","ad-Dār al-Bayḍāʾ","White House","Bedawa","الدار البيضاء"]}
+{"q":"Q40939","t":"Aeschylus","s":152,"entity_type":"person","d":"ancient Athenian playwright","st":525,"e":456,"a":["Æschylus","Aeschylos"]}
+{"q":"Q7333","t":"Zheng He","s":151,"entity_type":"person","d":"Chinese mariner, explorer, and diplomat","st":1371,"e":1433,"a":["Ma He","Cheng Ho","Sanbao","Sanbao Taijian"]}
+{"q":"Q1356","t":"West Bengal","s":151,"entity_type":"entity","d":"Indian state","st":1947,"a":["Paschimbanga","WB","IN-WB"]}
+{"q":"Q16553","t":"San Jose","s":151,"entity_type":"entity","d":"city and county seat of Santa Clara County, California, United States","st":1777,"a":["San José, California","San Jose, California","San José","City of San José","City of San Jose","Pueblo de San José de Guadalupe","San Jose, CA","San José, CA","Pueblo de San Jose de Guadalupe"]}
+{"q":"Q3909","t":"Maseru","s":151,"entity_type":"city","d":"capital of Lesotho","st":1869}
+{"q":"Q9471","t":"epistemology","s":151,"entity_type":"entity","d":"branch of philosophy studying the nature and scope of knowledge","a":["philosophy of knowledge","theory of knowledge","précis of epistemology"]}
+{"q":"Q268378","t":"work","s":150,"entity_type":"entity","d":"activities performed as a means of support","a":["labor","labour","work (human activity)"]}
+{"q":"Q9747","t":"U/u","s":150,"entity_type":"entity","d":"21st letter of the basic Latin alphabet","a":["u","Uniform","ᴜ","U","uniform"]}
+{"q":"Q743","t":"tungsten","s":150,"entity_type":"entity","d":"chemical element with symbol W and atomic number 74","a":["W","element 74","74W","wolfram"]}
+{"q":"Q53268","t":"Toyota","s":150,"entity_type":"entity","d":"Japanese multinational automotive manufacturer","st":1937,"a":["TOYOTA JIDOSHA KABUSHIKI KAISHA","TOYOTA JIDOSHA KABUSHIKI KAISHA (Toyota)","Toyota Motor"]}
+{"q":"Q35715","t":"South Australia","s":150,"entity_type":"entity","d":"state of Australia","st":1836,"a":["SA","S.A.","AU-SA","S. Aust.","State of South Australia"]}
+{"q":"Q8733","t":"Qing dynasty","s":150,"entity_type":"entity","d":"Manchu-led dynasty of China (1644–1912)","st":1636,"e":1912,"a":["Empire of the Great Qing","Great Qing","Qing Empire","Qing China","Manchu China","Ch'ing Empire","Ch'ing China","Great Qing state","Ta Tsing Empire","Tai Ching Ti Kuo","Manchu Tartar dynasty","Tartar Chinese Empire","Chinese-Tartar empire","Tartar-Manchu dynasty","Ta-tsing dynasty","Tai-tsing dynasty","Tsing dynasty","Great Tsing dynasty","Great Pure dynasty","Manchu empire","Manchu dynasty","Great Ching dynasty","Great Qing Empire","Ch'ing dynasty"]}
+{"q":"Q34876","t":"province","s":150,"entity_type":"entity","d":"administrative division in several countries","a":["provinces","landscape"]}
+{"q":"Q1711","t":"Potsdam","s":150,"entity_type":"entity","d":"capital city of the German state of Brandenburg","a":["Imperial City of Potsdam"]}
+{"q":"Q23792","t":"Palestine","s":150,"entity_type":"entity","d":"geographic region in West Asia","a":["Land of Israel","Holy Land","Promised Land","Canaan","Historic Palestine","Land of Palestine","Filasṭīn","Felesteen","Palestina","Palæstina","Filistin","Palastine","Palestine region","Western Palestine","Region of Palestine","Balesitan","Falasteen"]}
+{"q":"Q39338","t":"orange","s":150,"entity_type":"entity","d":"colour, located between red and yellow in the spectrum of light","a":["color orange","orange color","orange colour","colour orange"]}
+{"q":"Q12174","t":"obesity","s":150,"entity_type":"entity","d":"medical condition in which individuals have an excess of body fat","a":["corpulence","overfatness","fatness","obese","human obesity"]}
+{"q":"Q1046","t":"niobium","s":150,"entity_type":"entity","d":"chemical element with symbol Nb and atomic number 41","a":["Nb","element 41","41Nb","columbium","Cb","Columbite"]}
+{"q":"Q48278","t":"Medellín","s":150,"entity_type":"entity","d":"capital city of Antioquia, Colombia","st":1675,"a":["Medellin","City ​​of Eternal Spring","Special District of Science, Technology and Innovation of Medellín","Municipality of Medellín","Medellín, Special District of Science, Technology and Innovation","Town of Our Lady of Candelaria of Medellín"]}
+{"q":"Q6105","t":"Hebe Camargo","s":150,"entity_type":"person","d":"Brazilian recording artist, television host, actress and singer (1929–2012)","st":1929,"e":2012,"a":["Hebe Maria Monteiro de Camargo Ravagnani","Hebe Maria Camargo","Rainha da Televisão Brasileira"]}
+{"q":"Q8810","t":"Granada","s":150,"entity_type":"entity","d":"municipality and capital of the province of Granada, Spain"}
+{"q":"Q3031","t":"girl","s":150,"entity_type":"entity","d":"young female human","a":["lass","lassie","👧"]}
+{"q":"Q1402","t":"Giovanni Boccaccio","s":150,"entity_type":"person","d":"Italian author and poet (1313–1375)","st":1313,"e":1375,"a":["Giovanni Boccace","Boccaccio","Boccace","Joanni B. de Certaldo"]}
+{"q":"Q36330","t":"Giordano Bruno","s":150,"entity_type":"person","d":"Italian Dominican friar, philosopher and mathematician (1548–1600)","st":1548,"e":1600,"a":["Filippo Bruno"]}
+{"q":"Q9190","t":"Exodus","s":150,"entity_type":"work","d":"second book of the Bible","a":["Book of Exodus"]}
+{"q":"Q43216","t":"Epicurus","s":150,"entity_type":"person","d":"ancient Greek philosopher","st":342,"e":270,"a":["Epíkouros","Epikouros"]}
+{"q":"Q448","t":"Denis Diderot","s":150,"entity_type":"person","d":"French Enlightenment philosopher writer and encyclopædist (1713–1784)","st":1713,"e":1784,"a":["Diderot"]}
+{"q":"Q29564928","t":"Cygnus","s":150,"entity_type":"taxon","d":"genus of birds","a":["swans","swan"]}
+{"q":"Q41532","t":"Carl Jung","s":150,"entity_type":"person","d":"Swiss psychiatrist and psychotherapist (1875–1961)","st":1875,"e":1961,"a":["C.G. Jung","Karl Gustav Jung","C. G. Jung","C. G. Yungu","Carl Gustav Jung"]}
+{"q":"Q44329","t":"Bashar al-Assad","s":150,"entity_type":"person","d":"President of Syrian Arab Republic from 2000 to 2024","st":1965,"a":["Bashshār","Bashar al Assad","Bashar Assad","Bashar Hafez al-Assad"]}
+{"q":"Q37995","t":"Yangon","s":149,"entity_type":"city","d":"former capital of Myanmar (Burma) and the current capital of Yangon Region","st":1035,"a":["Rangoon","Yangon City","Rangoon City","Yangon Region"]}
+{"q":"Q19125","t":"scorpion","s":149,"entity_type":"taxon","d":"order of arachnids","st":4350,"a":["scorpions","Scorpiones"]}
+{"q":"Q1102","t":"plutonium","s":149,"entity_type":"entity","d":"radioactive chemical element with symbol Pu and atomic number 94","a":["element 94","94Pu"]}
+{"q":"Q37181","t":"Luiz Inácio Lula da Silva","s":149,"entity_type":"person","d":"president of Brazil from 2003 to 2011 and since 2023","st":1945}
+{"q":"Q38111","t":"Leonardo DiCaprio","s":149,"entity_type":"person","d":"American actor and producer (born 1974)","st":1974,"a":["Leonardo Wilhelm DiCaprio"]}
+{"q":"Q40348","t":"lawyer","s":149,"entity_type":"entity","d":"legal professional","a":["attorney","solicitor","barrister","lawyers"]}
+{"q":"Q44301","t":"Jim Morrison","s":149,"entity_type":"person","d":"American singer and poet; lead vocalist of The Doors (1943–1971)","st":1943,"e":1971,"a":["The Lizard King","James Morrison","James Douglas \"Jim\" Morrison","Mojo Risin","Lizard King","James Douglas Morrison","Mr. Mojo Risin'","Jimbo"]}
+{"q":"Q42375","t":"International Mother Language Day","s":149,"entity_type":"entity","d":"worldwide annual observance to promote awareness of linguistic and cultural diversity","st":2000,"a":["IMLD","Mother Language Day"]}
+{"q":"Q35666","t":"glacier","s":149,"entity_type":"entity","d":"large persistent body of ice"}
+{"q":"Q19088","t":"eukaryote","s":149,"entity_type":"taxon","d":"taxonomic group whose members have a cell nucleus enclosed within a nuclear envelope","st":2700,"a":["Eukarya","Eukaryota","eukaryotes"]}
+{"q":"Q23907","t":"cheetah","s":149,"entity_type":"taxon","d":"species of mammal","st":1900,"a":["Felis lanea","geopard","woolly cheetah","African cheetah","white cheetah"]}
+{"q":"Q1164","t":"Assam","s":149,"entity_type":"entity","d":"Indian state","st":1950,"a":["The Land of Red Rivers and Blue Hills","Axom","Asom","IN-AS"]}
+{"q":"Q11464","t":"plough","s":148,"entity_type":"entity","d":"tool and farm implement for turning the soil, containing one or more sharp iron parts, pulled by livestock or a tractor","a":["plow"]}
+{"q":"Q2599","t":"Paul McCartney","s":148,"entity_type":"person","d":"English musician and member of the Beatles (born 1942)","st":1942,"a":["Sir Paul McCartney","Macca","James McCartney","Ian Iachimoe","Sir James Paul McCartney","Paul Ramon"]}
+{"q":"Q1089","t":"palladium","s":148,"entity_type":"entity","d":"chemical element with symbol Pd and atomic number 46","a":["Pd","element 46","46Pd"]}
+{"q":"Q1053","t":"molybdenum","s":148,"entity_type":"entity","d":"chemical element with symbol Mo and atomic number 42","a":["element 42","42Mo","molybdenum atom","elemental molybdenum","metallic molybdenum"]}
+{"q":"Q12453","t":"measurement","s":148,"entity_type":"entity","d":"process of assigning quantities to objects or events","a":["physical measurement"]}
+{"q":"Q2211","t":"Malmö","s":148,"entity_type":"entity","d":"city in Skåne County, Sweden","st":1353,"a":["Malmo"]}
+{"q":"Q15879","t":"Lacertilia","s":148,"entity_type":"taxon","d":"paraphyletic group of squamate reptiles, no longer recognised as a valid suborder","a":["lizards"]}
+{"q":"Q11420","t":"judo","s":148,"entity_type":"entity","d":"modern martial art, combat and Olympic/Paralympic sport","st":1882}
+{"q":"Q40050","t":"drink","s":148,"entity_type":"entity","d":"kind of liquid which is specifically prepared for human consumption","a":["beverage"]}
+{"q":"Q3604","t":"Djibouti","s":148,"entity_type":"city","d":"capital city of Djibouti","st":1888,"a":["Djibouti (city)","Djibouti City"]}
+{"q":"Q2813","t":"Coca-Cola","s":148,"entity_type":"entity","d":"carbonated brown-colored soft drink","st":1886}
+{"q":"Q231690","t":"B. R. Ambedkar","s":148,"entity_type":"person","d":"Indian polymath, philosopher, and social reformer (1891–1956)","st":1891,"e":1956,"a":["Bhimrao Ambedkar","Babasaheb Ambedkar","Babasaheb","Ambedkar","Bhimrao R. Ambedkar","B.R. Ambedkar","B R Ambedkar","Baba Saheb Bhim Rao Ambedkar","Dr BR Ambedkar","Dr. Babasaheb Ambedkar","Dr. B. R. Ambedkar","Dr. Bhimrao Ambedkar","Dr. Bhimrao Ramji Ambedkar","BR Ambedkar","Babasaheb Bhimrao Ambedkar","Baba Saheb","Bhimrao Ramji Ambedkar"]}
+{"q":"Q1159","t":"Andhra Pradesh","s":148,"entity_type":"entity","d":"state in South India, India","st":1956,"a":["AP"]}
+{"q":"Q7018","t":"15th century","s":148,"entity_type":"entity","d":"century","st":1401,"e":1500,"a":["15th-century","Quatro Cento","fifteenth century"]}
+{"q":"Q37587","t":"Valentine's Day","s":147,"entity_type":"entity","d":"holiday observed on February 14 to celebrate love and friendship","a":["Saint Valentine's Day","Valentines Day","Valentines' Day","St. Valentine's Day","V-Day","St Valentine's Day","Saint Valentine Day"]}
+{"q":"Q17892","t":"Sappho","s":147,"entity_type":"person","d":"ancient Greek poet from Lesbos (c. 630-c. 570 BC)","st":650,"e":550,"a":["Psappho","Sapphus","Sapho"]}
+{"q":"Q2145","t":"Quebec City","s":147,"entity_type":"entity","d":"capital city of the province of Quebec, Canada","st":1608,"a":["Quebec","Québec","City of Québec","City of Quebec","Ville de Quebec","Quebec, Quebec","Québec, Québec"]}
+{"q":"Q25326","t":"Mollusca","s":147,"entity_type":"taxon","d":"phylum of animals","st":5000,"a":["molluscs","mollusc","mollusks","mollusk"]}
+{"q":"Q48301","t":"Martin Heidegger","s":147,"entity_type":"person","d":"German philosopher (1889–1976)","st":1889,"e":1976}
+{"q":"Q8851","t":"Málaga","s":147,"entity_type":"entity","d":"municipality and capital of the province of Málaga, in Spain","st":800,"a":["Malaga"]}
+{"q":"Q37175","t":"Johnny Depp","s":147,"entity_type":"person","d":"American actor (born 1963)","st":1963,"a":["John Christopher \"Johnny\" Depp II","John Christopher Depp II","John Christopher Depp","John C. Depp II","John Depp"]}
+{"q":"Q1631","t":"Édith Piaf","s":147,"entity_type":"person","d":"French singer (1915–1963)","st":1915,"e":1963,"a":["Édith Gassion","The Little Sparrow","La Señora Piaf","Edith Piaf","La môme Piaf"]}
+{"q":"Q51993","t":"Ebola hemorrhagic fever","s":147,"entity_type":"entity","d":"human disease","a":["Ebola","Ebola fever","Ebola disease","Hemorrhagic Fever, Ebola","Ebola virus disease","EVP","EHP"]}
+{"q":"Q43070","t":"Donetsk","s":147,"entity_type":"entity","d":"city in Ukraine","st":1869,"a":["Hughesovka","Yuzovka","Aleksandrovka","Stalin","Stalino"]}
+{"q":"Q8423","t":"Cyrus the Great","s":147,"entity_type":"person","d":"founder of the Achaemenid Empire (559–529 BC)","st":600,"e":530,"a":["Cyrus II of Persia","Cyrus the Elder","Cyrus","Cyrus II","Kurosh","Cyrus II the Elder","King Cyrus","King Cyrus the Great","King of Persia Cyrus","Kabir Kurushi","King of Persia Cyrus II","King of Persia Cyrus the Great","King of Persia Siroe","King of Persia Kyros"]}
+{"q":"Q1248784","t":"airport","s":147,"entity_type":"entity","d":"location where aircraft take off and land with extended support facilities, mostly for commercial air transport","a":["airports","air port","aerodrome"]}
+{"q":"Q1362169","t":"Agnez Mo","s":147,"entity_type":"person","d":"Indonesian singer and actress","st":1986,"a":["Agnes Monica","Indonesian singer"]}
+{"q":"Q1498","t":"Uttar Pradesh","s":146,"entity_type":"entity","d":"state in northern India","st":1950,"a":["U.P."]}
+{"q":"Q264766","t":"Theresa May","s":146,"entity_type":"person","d":"Prime Minister of the United Kingdom from 2016 to 2019","st":1956,"a":["Theresa Mary Brasier","Prime Minister Theresa May","Prime Minister May","Prime Minister Theresa Mary May","PM Theresa May","PM Theresa Mary May","PM May","Theresa Mary May","Baroness May of Maidenhead"]}
+{"q":"Q7525","t":"Sevastopol","s":146,"entity_type":"entity","d":"port city in Crimea, Ukraine","st":1783,"a":["Sebastopol","Sewastupolis","Sevastopil","Aqyar","Sewastúpolis","Sevastopol'"]}
+{"q":"Q12099","t":"Secale cereale","s":146,"entity_type":"taxon","d":"species of plant","a":["the rye plant","rye"]}
+{"q":"Q6605","t":"Sakha","s":146,"entity_type":"entity","d":"federal subject of Russia, republic of Russia","st":1990,"a":["Sakha Republic","Yakutia","Yakutiya","Sakha (Yakutia)","Republic of Sakha"]}
+{"q":"Q31431","t":"Psittaciformes","s":146,"entity_type":"taxon","d":"order of birds","st":5000,"a":["psittacines","parrot order","parrot","Psittaciform","Psittaciforms"]}
+{"q":"Q2003","t":"Newfoundland and Labrador","s":146,"entity_type":"entity","d":"province of Canada","st":1949,"a":["NL","New Foundland and Labrador","N.L.","Newfoundland","Nfld.","NFLD","CA-NL","Canada's Happy Province"]}
+{"q":"Q40285","t":"New Guinea","s":146,"entity_type":"entity","d":"island in the Pacific Ocean","a":["Niugini","Papua","Pulau Papua","Papua Island","Neu Guinea","Nieuw-Guinea","Nouvelle Guinee","Nouvelle Guinée","Nov-Gvineo","Nueva Guinea"]}
+{"q":"Q5511","t":"Lake Tanganyika","s":146,"entity_type":"entity","d":"lake in Africa","a":["Tanganyika"]}
+{"q":"Q4441","t":"Emily Dickinson","s":146,"entity_type":"person","d":"American poet (1830-1886)","st":1830,"e":1886,"a":["Emily Elizabeth Dickinson"]}
+{"q":"Q1263","t":"Emilia-Romagna","s":146,"entity_type":"entity","d":"region of Italy"}
+{"q":"Q1997","t":"carbon dioxide","s":146,"entity_type":"entity","d":"chemical compound","a":["[CO2]","R-744","E-290","E 290","E290","CO₂","carbon oxide","R744","CO2","carbonic acid gas","carbonic anhydride","methanedione","carbonic acid anhydride"]}
+{"q":"Q11975","t":"Britney Spears","s":146,"entity_type":"person","d":"American singer, songwriter, actress and model (born 1981)","st":1981,"a":["Britney Bitch","The Princess of Pop","Princess of Pop"]}
+{"q":"Q3043","t":"Belmopan","s":146,"entity_type":"city","d":"capital of Belize","st":1970,"a":["The Garden City","The Planned City","City of Promise"]}
+{"q":"Q12542","t":"Aztec","s":146,"entity_type":"entity","d":"ethnic groups of central Mexico and their civilization","st":1200,"e":1523,"a":["Aztec civilization","Aztec people","Aztecs","Azteclas"]}
+{"q":"Q1360","t":"arthropod","s":146,"entity_type":"taxon","d":"phylum of animals","st":5400,"a":["arthropods","arthropod animal","arthropod animals","Arthropoda"]}
+{"q":"Q11376","t":"acceleration","s":146,"entity_type":"entity","d":"rate at which the magnitude and/or direction of velocity changes with time"}
+{"q":"Q1038","t":"zirconium","s":145,"entity_type":"entity","d":"chemical element with symbol Zr and atomic number 40","a":["Zr","element 40","40Zr"]}
+{"q":"Q2013","t":"Wikidata","s":145,"entity_type":"entity","d":"free multilingual online knowledge graph","st":2012,"a":["Q2013"]}
+{"q":"Q21194","t":"Vũng Tàu","s":145,"entity_type":"entity","d":"provincial city of Ba Ria-Vung Tau province, Vietnam","a":["Cape Saint Jacques","Vũng Tàu city","Vung Tau"]}
+{"q":"Q15228","t":"The Lord of the Rings","s":145,"entity_type":"entity","d":"1954–1955 fantasy novel trilogy by J. R. R. Tolkien","a":["Lord of the Rings","TLotR","LotR"]}
+{"q":"Q483654","t":"Sunni Islam","s":145,"entity_type":"entity","d":"most populous Islamic denomination","st":601,"a":["Sunni","Sunnite Muslims","Sunnite Muslim","Sunnites","Sunni Muslims","Sunnis"]}
+{"q":"Q1086","t":"ruthenium","s":145,"entity_type":"entity","d":"chemical element with symbol Ru and atomic number 44","a":["Ru","element 44","44Ru","vestium"]}
+{"q":"Q9394","t":"rabbit","s":145,"entity_type":"entity","d":"mammals of the family Leporidae","st":5300,"a":["bunny","bun","bunny rabbit","coney","bunnies","rabbits"]}
+{"q":"Q25237","t":"Pisum sativum","s":145,"entity_type":"taxon","d":"species of plant with edible seeds","a":["pea plant","peas","Pea"]}
+{"q":"Q37083","t":"Olea europaea","s":145,"entity_type":"taxon","d":"olive plant, species of plant used as food","st":6000,"a":["olive tree","olive"]}
+{"q":"Q12739","t":"nuclear power","s":145,"entity_type":"entity","d":"power generated from nuclear reactions","a":["nuclear energy","atomic energy","atomic power"]}
+{"q":"Q891","t":"Nizhny Novgorod","s":145,"entity_type":"entity","d":"capital of the Nizhny Novgorod Oblast and the Volga Federal District in central Russia","st":1221,"a":["Gorky","Nizhny","Nether Novgorod","Nijni-Novgorod","Gerkiy","NiNo"]}
+{"q":"Q34379","t":"musical instrument","s":145,"entity_type":"entity","d":"device created or adapted to make musical sounds","a":["music instrument","instrument","instrument in music","instrument (music)"]}
+{"q":"Q6441","t":"Montpellier","s":145,"entity_type":"entity","d":"city in Hérault, France","a":["Montpelhièr"]}
+{"q":"Q12418","t":"Mona Lisa","s":145,"entity_type":"entity","d":"oil painting by Leonardo da Vinci in the Louvre, Paris","st":1503,"a":["La Gioconda","Monna Lisa","The Mona Lisa"]}
+{"q":"Q2979","t":"liberty","s":145,"entity_type":"entity","d":"ability of individuals to have agency","a":["freedom"]}
+{"q":"Q1749","t":"Kaliningrad Oblast","s":145,"entity_type":"entity","d":"exclave of Russia sandwiched between Poland and Lithuania","st":1946}
+{"q":"Q49496","t":"Jean de La Fontaine","s":145,"entity_type":"person","d":"French poet, fabulist and writer (1621–1695)","st":1621,"e":1695,"a":["J. de La Fontaine","Jean de la Fontaine","Jean de Lafontaine"]}
+{"q":"Q1094","t":"indium","s":145,"entity_type":"entity","d":"chemical element with symbol In and atomic number 49","a":["In","element 49","49In","Indium element"]}
+{"q":"Q13917","t":"Île-de-France","s":145,"entity_type":"entity","d":"administrative region of France","st":1972,"a":["Ile de France","Région Île-de-France","Region Ile-de-France","Île de France","IDF","IdF","Paris Region","Parisian Region","Island of France","FR-IDF"]}
+{"q":"Q1297822","t":"copyright","s":145,"entity_type":"entity","d":"legal concept in common law regulating rights related to original creative work","a":["author's rights (continental law)"]}
+{"q":"Q36312","t":"Calgary","s":145,"entity_type":"city","d":"largest city in Alberta, Canada","st":1875,"a":["Calgary, Alberta","Calgary, AB","Calgary, Canada","City of Calgary"]}
+{"q":"Q34201","t":"Zeus","s":144,"entity_type":"entity","d":"Greek god of the sky and king of the gods","a":["Jupiter","Dias","Jove"]}
+{"q":"Q11990","t":"reproduction","s":144,"entity_type":"entity","d":"production of new individuals that contain some portion of genetic material inherited from one or more parent organisms","a":["reproductive physiological process","reproducing","procreation","biological reproduction","reproduction of living things"]}
+{"q":"Q23520","t":"Paltoga","s":144,"entity_type":"entity","d":"village in Vologda Oblast, Russia","st":2001}
+{"q":"Q45765","t":"Jack London","s":144,"entity_type":"person","d":"American author, journalist and social activist (1876–1916)","st":1876,"e":1916,"a":["John Griffith Chaney","John Griffith \"Jack\" London","John Griffith Chaney London","John Griffith \"Jack London\" Chaney"]}
+{"q":"Q7559","t":"dragon","s":144,"entity_type":"entity","d":"legendary winged, fire-breathing reptile","a":["drake"]}
+{"q":"Q12133","t":"deafness","s":144,"entity_type":"entity","d":"partial or total inability to hear"}
+{"q":"Q40946","t":"Daniel Defoe","s":144,"entity_type":"person","d":"English trader, writer, and journalist (1660–1731)","st":1660,"e":1731,"a":["Daniel Foe","D. Defoe"]}
+{"q":"Q42177","t":"bed","s":144,"entity_type":"entity","d":"piece of furniture used as a place to sleep or relax","a":["beds"]}
+{"q":"Q11896","t":"Zachary Taylor","s":143,"entity_type":"person","d":"president of the United States from 1849 to 1850","st":1784,"e":1850,"a":["Z. Taylor","President Taylor","Old Rough and Ready","President Zachary Taylor","POTUS 12"]}
+{"q":"Q36233","t":"Václav Havel","s":143,"entity_type":"person","d":"Czech statesman, playwright, and former dissident, the last president of Czechoslovakia and the first president of the Czech Republic (1936–2011)","st":1936,"e":2011,"a":["Vaclav Havel"]}
+{"q":"Q37660","t":"South China Sea","s":143,"entity_type":"entity","d":"Marginal sea in the Pacific Ocean","a":["East Sea","West Philippine Sea","South Sea","South East Asia Sea","Nan Zhong Guo Hai","Nan Hai","East Vietnamese Sea"]}
+{"q":"Q37068","t":"Romanticism","s":143,"entity_type":"entity","d":"artistic, literary, musical, and intellectual movement","st":1800,"e":1900,"a":["Romantic","romantics","Romantic era","Romantic period","Romantic movement"]}
+{"q":"Q36633","t":"prostitution","s":143,"entity_type":"entity","d":"engaging in sexual relations in exchange for payment","a":["harlotry","whoring","hoeing","hustling","turning tricks"]}
+{"q":"Q7795","t":"Organization of the Petroleum Exporting Countries","s":143,"entity_type":"entity","d":"international organization of petroleum-exporting countries","st":1960}
+{"q":"Q1965","t":"New Brunswick","s":143,"entity_type":"entity","d":"province of Canada","st":1867,"a":["Province of New Brunswick","NB","N.B.","CA-NB","Picture Province"]}
+{"q":"Q1105","t":"neptunium","s":143,"entity_type":"entity","d":"chemical element with symbol Np and atomic number 93","a":["Np","element 93","93Np"]}
+{"q":"Q9246","t":"Mongolian","s":143,"entity_type":"entity","d":"official language of Mongolia","a":["Mongolian language","Mongol","Khalka"]}
+{"q":"Q11891","t":"James K. Polk","s":143,"entity_type":"person","d":"President of the United States from 1845 to 1849 (1795–1849)","st":1795,"e":1849,"a":["James Knox Polk","James Polk","J. K. Polk","J. Polk","President Polk"]}
+{"q":"Q12325","t":"James Buchanan","s":143,"entity_type":"person","d":"president of the United States from 1857 to 1861","st":1791,"e":1868,"a":["James Buchanan, Jr.","J. Buchanan, Jr.","J. Buchanan","President Buchanan"]}
+{"q":"Q11651","t":"electric current","s":143,"entity_type":"entity","d":"flow of electric charge","a":["current","electrical current","electron current"]}
+{"q":"Q596","t":"Ceres","s":143,"entity_type":"entity","d":"dwarf planet in the Solar System and largest asteroid of the main asteroid belt","a":["(1) Ceres","1 Ceres","Ceres (dwarf planet)"]}
+{"q":"Q765633","t":"aviation","s":143,"entity_type":"entity","d":"human activity involving mechanical flight in atmosphere","a":["flying"]}
+{"q":"Q79871","t":"anger","s":143,"entity_type":"entity","d":"intense emotional state that sometimes results in combative and destructive actions","a":["wrath","angriness","angry","ire"]}
+{"q":"Q1070","t":"Ahmedabad","s":143,"entity_type":"entity","d":"city in the state of Gujarat, India","st":1411,"a":["Manchester of the East","Amdavad","Karnavati","Ahmadabad","Ashaval","अहमदाबाद"]}
+{"q":"Q1017","t":"Aachen","s":143,"entity_type":"entity","d":"city in North Rhine-Westphalia, Germany","a":["Oche","Aix-la-Chapelle","Aix la Chapelle"]}
+{"q":"Q9372","t":"Sima Qian","s":142,"entity_type":"person","d":"2nd-century BCE Chinese historian and writer","st":145,"e":86,"a":["Father of History","Sima Chin","Ssu-ma Chien","Zichang","Sze-ma Ts'ien","Ssu-ma Ch'ien","Sze-ma Tsien","Se-ma-tsien","Se-ma Tsien","Tai-se-kong","Taishigong","Dasima","Da Sima","Ta-ssu-ma","Ta Ssu-ma","Sima Zichang","Ssu-ma Tzu-ch'ang","Ssu-ma Tzu-chang","T'ai-shih-kung","Tai-shih-kung","T'ai Shih Kung","Tai Shih Kung","Ssé-ma-tsiene","Sse-ma-tsiene","Sze-ma Khien","Sze-mâ Khien"]}
+{"q":"Q23471","t":"Lordi","s":142,"entity_type":"entity","d":"Finnish rock band","st":1992}
+{"q":"Q41329","t":"Linz","s":142,"entity_type":"entity","d":"capital city of Upper Austria, Austria"}
+{"q":"Q36956","t":"leprosy","s":142,"entity_type":"entity","d":"chronic infection caused by bacteria Mycobacterium leprae","a":["Hansen's disease","lepras"]}
+{"q":"Q11881","t":"John Tyler","s":142,"entity_type":"person","d":"president of the United States from 1841 to 1845","st":1790,"e":1862,"a":["J. Tyler","President Tyler","John Tyler, Jr.","John Tyler Jr.","John Tyler Jr","John Tyler, Jr"]}
+{"q":"Q785","t":"Jersey","s":142,"entity_type":"entity","d":"British Crown dependency in the Channel Islands","st":1651,"a":["je","Balliwick of Jersey","Bailliage de Jersey","Bailliage de Jèrri","Jèrri","Jerri","Bailliage de Jerri","Iersey","I. Iersey","Iersey I.","Jersey Island","Jersey I.","Isle of Jersey","I. Jersey"]}
+{"q":"Q14683","t":"House Sparrow","s":142,"entity_type":"taxon","d":"species of bird","a":["Passer domesticus"]}
+{"q":"Q37501","t":"glasses","s":142,"entity_type":"entity","d":"accessories that improve human vision","a":["spectacles","specs","eyeglasses"]}
+{"q":"Q2185","t":"Georges Pompidou","s":142,"entity_type":"person","d":"President of France from 1969 to 1974","st":1911,"e":1974}
+{"q":"Q9307","t":"Galician","s":142,"entity_type":"entity","d":"Western Ibero-Romance language","a":["Galician language"]}
+{"q":"Q41408","t":"Federico García Lorca","s":142,"entity_type":"person","d":"Spanish poet, dramatist and prose writer (1898–1936)","st":1898,"e":1936,"a":["García Lorca","García Lorca, Federico","G. F. Lorca","Phenteriko Gkarthia Lorka","Lorka","F. García Lorca","F. G. Lorca","Lorca","Federico Garciá Lorca","Federico del Sagrado Corazón de Jesús García Lorca","Phederiko Gkarthia Lorka","Federiḳo Garsiyah Lorḳah","Federiko Garsii︠a︡ Lorka","Federico Garcia Lorca","Frederico Garcia Lorca","Federico del Sagrado Corazon de Jesus Garcia Lorca","Garcia Lorca","F. Garcia Lorca","Federiko Garsia Lorka","Federico Carcía Lorca","Federico Carcia Lorca"]}
+{"q":"Q366","t":"corruption","s":142,"entity_type":"entity","d":"form of dishonesty or criminal offense undertaken by a person or organization entrusted with a position of authority, to acquire illicit benefit or abuse power for one's private gain","a":["public corruption"]}
+{"q":"Q26540","t":"artificial satellite","s":142,"entity_type":"entity","d":"human-made object put into an orbit","a":["artificial moon","space satellite"]}
+{"q":"Q25314","t":"Angiosperms","s":142,"entity_type":"entity","d":"clade of seed plants that produce flowers","a":["Flowering plants","Magnoliidae","Magnoliophyta","Angiospermae"]}
+{"q":"Q81447","t":"Aldous Huxley","s":142,"entity_type":"person","d":"English writer and philosopher (1894–1963)","st":1894,"e":1963,"a":["Aldous Leonard Huxley"]}
+{"q":"Q35811","t":"Zoroaster","s":141,"entity_type":"person","d":"founder of Zoroastrianism","st":628,"e":551,"a":["Zarathushtra","Zartosht","Zardusht","Zarathustra","Zarathushtra Spitama","Zarathoustra","Zoroastre","Zurtasht","Zartusht","Zarathusthra","Zerdusht"]}
+{"q":"Q25285","t":"Tatar","s":141,"entity_type":"entity","d":"Turkic language spoken by Tatars","a":["Kazan Tatar language","Qazan Tatar language","Tartarian","Tatar language","Volga Tatar","Volga Tatar language"]}
+{"q":"Q42418","t":"Taliban","s":141,"entity_type":"entity","d":"Afghan islamist organization","st":1994,"a":["Taleban","Islamic Emirate of Afghanistan"]}
+{"q":"Q36288","t":"Silk Road","s":141,"entity_type":"entity","d":"trade routes through Asia connecting China to the Mediterranean Sea","a":["The Silk Road","Silk Route","Ruta de la Seka","Great Silk Road","Silk Highway","overland Silk Road"]}
+{"q":"Q11378","t":"Shiva","s":141,"entity_type":"entity","d":"one of the principal deities of Hinduism","a":["Rudra","Bhairav","Achintya","Akul","Eeshan","Ekaling","Gaganesh","Gaurinath","Girish","Girik","Girindra","Harendra","Hariaksa","Hemakesh","Jatin","Jayant","Jogesh","Joginder","Jograj","Jwalia","Kashinath","Kedar","Madesh","Madhavan","Mahamani","Mahesh","Mangesh","Mrigasya","Mukesh","Nabhya","Nagesh","Omkarnath","Panchal","Panshul","Purahan","Purajit","chandra sekharudu","parameshwara","Pinaki","Bhola","Mahadev","Mahadeva","niranjan","Siva","Mahâdêva","Çiva","Śiva","Adi Bhikshuvu"]}
+{"q":"Q40763","t":"seed","s":141,"entity_type":"entity","d":"embryonic plant enclosed in a protective outer covering (seed coat)","a":["seeds"]}
+{"q":"Q908","t":"Rostov-on-Don","s":141,"entity_type":"entity","d":"city and administrative center of Rostov Oblast in southern Russia","st":1749,"a":["Rostov-na-Donu","Rostoff","Rostov","Rostov-on-the-Don"]}
+{"q":"Q83186","t":"Romeo and Juliet","s":141,"entity_type":"entity","d":"tragedy by William Shakespeare","st":1590,"a":["Una excelente tragedia engreída de Romeo y Iuliet","La excelentísima y lamentable tragedia de Romeo y Julieta","La tragedia de Romeo y Julieta"]}
+{"q":"Q41064","t":"Psalms","s":141,"entity_type":"entity","d":"book of the Bible, has five books","a":["Book of Psalms","The Book of Psalms","Psalm"]}
+{"q":"Q9492","t":"probability","s":141,"entity_type":"entity","d":"measure of the expectation that an event will occur or a statement is true","a":["probability of an event"]}
+{"q":"Q6106","t":"Portland","s":141,"entity_type":"entity","d":"seat of Multnomah County, and largest city in state of Oregon, United States","a":["Portland, Oregon","City of Portland","Rose City","City of Roses","Rip City","Stumptown","Portland, OR","PDX","Beervana","Bridgetown"]}
+{"q":"Q196538","t":"microscope","s":141,"entity_type":"entity","d":"instrument used to see objects that are too small for the naked eye","a":["🔬","microscopes"]}
+{"q":"Q30185","t":"mayor","s":141,"entity_type":"entity","d":"head of municipal government such as a town or city","a":["Mayor"]}
+{"q":"Q11758","t":"L. L. Zamenhof","s":141,"entity_type":"person","d":"Polish-Jewish physician and inventor of Esperanto (1859-1917)","st":1859,"e":1917,"a":["L. Zamenhof","L. M. Zamenhof","Leyzer Zamenhov","Lazar Markovich Zamenhof","Eliezer Levi Samenhof","Doktoro Esperanto","Lazaro Ludoviko Zamenhof","Ludoviko Lazaro Zamenhofo","Lazar Lyudvik Zamenhof","Ludwik Lejzer Zamenhof","Ludwig Lazarus Zamenhof","Louis Lazare Zamenhof","Zamenhof","Dr. Esperanto","Doctor Esperanto","Ludwik Zamenhof","Ludwig Zamenhof","Dottor Esperanto","Ludovico Lazzaro Zamenhof","LL Zamenhof"]}
+{"q":"Q1707","t":"Kiel","s":141,"entity_type":"entity","d":"German city, capital of Schleswig-Holstein","st":1242}
+{"q":"Q66485","t":"Jaipur","s":141,"entity_type":"entity","d":"capital of Rajasthan, India","st":1727,"a":["Pink City"]}
+{"q":"Q46076","t":"hare","s":141,"entity_type":"taxon","d":"genus of mammals in the family Leporidae","a":["the hare genus","jackrabbit"]}
+{"q":"Q7987","t":"computer mouse","s":141,"entity_type":"entity","d":"hand-held device used to move a pointer on a computer display","st":1963,"a":["mice","computer mice","mouses","mouse"]}
+{"q":"Q5739","t":"Castile and León","s":141,"entity_type":"entity","d":"autonomous community of Spain","st":1983,"a":["Castilla y León","Castile and Leon","Castilla y Leon"]}
+{"q":"Q493","t":"Arthur Rimbaud","s":141,"entity_type":"person","d":"French poet (1854-1891)","st":1854,"e":1891}
+{"q":"Q11081","t":"Alzheimer's disease","s":141,"entity_type":"entity","d":"progressive, neurodegenerative disease characterized by memory loss","a":["Alzheimer","Alzheimers","AD","Alzheimer disease","Alzheimer's dementia","Alzheimers dementia","Alzheimer disease, familial","Alzheimer dementia","Alzheimer's Disease","Alzheimers disease","Alzheimer’s Disease"]}
+{"q":"Q2028","t":"Verona","s":140,"entity_type":"entity","d":"city in Veneto, northern Italy","st":550}
+{"q":"Q61509","t":"travel","s":140,"entity_type":"entity","d":"movement of people between geographical locations","a":["journey","to travel","travelling","traveling","journey (travel)"]}
+{"q":"Q37043","t":"Tallahassee","s":140,"entity_type":"entity","d":"county seat of Leon County, Florida, USA and Florida federated state capital city","st":1824,"a":["Tallahassee, Florida","Tallahassee, FL"]}
+{"q":"Q11438","t":"solid","s":140,"entity_type":"entity","d":"solid matter; matter which does not deform easily under pressure","a":["solid matter"]}
+{"q":"Q47162","t":"Romain Rolland","s":140,"entity_type":"person","d":"French author (1866-1944)","st":1866,"e":1944,"a":["R.Rolland"]}
+{"q":"Q58635","t":"Punjabi","s":140,"entity_type":"entity","d":"Indo-Aryan language spoken in the Punjab region of Pakistan and India","a":["Punjabi language","Panjabi","Panjabi language"]}
+{"q":"Q268","t":"Poznań","s":140,"entity_type":"entity","d":"capital of the Greater Poland Voivodeship in west-central Poland","a":["Poznan","Posen"]}
+{"q":"Q19697","t":"Motörhead","s":140,"entity_type":"entity","d":"British rock band","st":1975,"e":2015,"a":["Motorhead"]}
+{"q":"Q12557","t":"Mongol Empire","s":140,"entity_type":"entity","d":"13th- and 14th-century empire originating in Mongolia","st":1206,"e":1368,"a":["Mongolian Empire","Great Mongol Nation"]}
+{"q":"Q1057","t":"metabolism","s":140,"entity_type":"entity","d":"set of chemical reactions and pathways by which living organisms transform chemical substances","a":["GO:0008152","metabolic process"]}
+{"q":"Q1733","t":"Magdeburg","s":140,"entity_type":"entity","d":"capital city of the German state of Saxony-Anhalt","a":["MD"]}
+{"q":"Q807","t":"Lausanne","s":140,"entity_type":"entity","d":"capital city of the canton of Vaud, Switzerland","a":["Lausanne VD","Olympic Capital","City of Lausanne"]}
+{"q":"Q7178","t":"International Red Cross and Red Crescent Movement","s":140,"entity_type":"entity","d":"international humanitarian movement","st":1863,"a":["Red Cross and Red Crescent","Red Cross","Red Crescent","IRCRCM","International Red Cross","Red Cross Movement","Red Crescent Movement","Red Cross Society","IRCM"]}
+{"q":"Q33829","t":"human population","s":140,"entity_type":"entity","d":"humans that live in the same locality","a":["inhabitants","residents","population"]}
+{"q":"Q33486","t":"Hartford","s":140,"entity_type":"entity","d":"city in and capital of Connecticut, United States","a":["Hartford, Connecticut","Hartford, CT","Hartford, Hartford County, Connecticut","Hartford (CT)","City of Hartford, Connecticut","Hartford, Conn.","Hartford CT","Capital of Connecticut","Hartford, USA","Hartford (Connecticut)"]}
+{"q":"Q234915","t":"Hajj","s":140,"entity_type":"entity","d":"Islamic pilgrimage to Mecca","a":["Hadj","Hadji","Haj","AlHajj"]}
+{"q":"Q1960","t":"Dar es Salaam","s":140,"entity_type":"city","d":"largest city in Tanzania and capital of Dar es Salaam Region","st":1862}
+{"q":"Q23809","t":"atomic number","s":140,"entity_type":"entity","d":"number of protons found in the nucleus of an atom","a":["atom number","proton number","number of protons"]}
+{"q":"Q35883","t":"Aral Sea","s":140,"entity_type":"entity","d":"Formerly a salt lake in Central Asia","a":["the sea of Aral"]}
+{"q":"Q11425","t":"animation","s":140,"entity_type":"entity","d":"method of creating moving pictures","a":["cartoon","animated feature"]}
+{"q":"Q47484","t":"André Gide","s":140,"entity_type":"person","d":"French author and Nobel laureate (1869–1951)","st":1869,"e":1951,"a":["André Paul Guillaume Gide","Andre Gide","Andre Paul Guillaume Gide"]}
+{"q":"Q11869","t":"William Henry Harrison","s":139,"entity_type":"person","d":"president of the United States in 1841","st":1773,"e":1841,"a":["William H. Harrison","Old Tippecanoe","President Harrison","W. H. Harrison"]}
+{"q":"Q8873","t":"Satyajit Ray","s":139,"entity_type":"person","d":"Indian filmmaker and writer (1921–1992)","st":1921,"e":1992,"a":["Manik Da"]}
+{"q":"Q10707","t":"Robert Mugabe","s":139,"entity_type":"person","d":"2nd President of Zimbabwe from 1987 to 2017","st":1924,"e":2019,"a":["Robert Gabriel Mugabe","Mugabe"]}
+{"q":"Q58132","t":"Nicolás Maduro","s":139,"entity_type":"person","d":"President of Venezuela 2013 to 2026","st":1962,"a":["Nicolás Maduro Moros","Nicolas Maduro Moros","Nicolas Maduro","Maduro"]}
+{"q":"Q43619","t":"natural environment","s":139,"entity_type":"entity","d":"all living and non-living things occurring naturally on Earth or some region thereof","a":["environment"]}
+{"q":"Q3099714","t":"Justin Trudeau","s":139,"entity_type":"person","d":"23rd prime minister of Canada from 2015 to 2025","st":1971,"a":["Justin Pierre James Trudeau"]}
+{"q":"Q41749","t":"Joseph Goebbels","s":139,"entity_type":"person","d":"Nazi politician and Propaganda Minister (1897–1945)","st":1897,"e":1945,"a":["Goebbels","PJG"]}
+{"q":"Q34486","t":"helicopter","s":139,"entity_type":"entity","d":"aerodyne using powered rotary wings for primary lift generation","a":["helo","chopper","whirlybird","egg beater","helicopters","H"]}
+{"q":"Q33384","t":"dialect","s":139,"entity_type":"entity","d":"geographically- or socially-determined language variety","a":["dialects"]}
+{"q":"Q12495","t":"Burj Khalifa","s":139,"entity_type":"entity","d":"skyscraper in Dubai, United Arab Emirates","st":2004,"a":["Burj Dubai","Khalifa Tower","1 Sheikh Mohammed bin Rashid Boulevard"]}
+{"q":"Q41223","t":"Boris Pasternak","s":139,"entity_type":"person","d":"Russian writer (1890–1960)","st":1890,"e":1960,"a":["Boris Leonidovich Pasternak"]}
+{"q":"Q3230","t":"atmosphere of Earth","s":139,"entity_type":"entity","d":"gas layer surrounding Earth","a":["Earth's atmosphere"]}
+{"q":"Q151892","t":"Ariana Grande","s":139,"entity_type":"person","d":"American singer, songwriter, and actress (born 1993)","st":1993}
+{"q":"Q30340","t":"Zhengzhou","s":138,"entity_type":"entity","d":"capital of Henan province, China","a":["Chengchow","Cheng-chow"]}
+{"q":"Q5826","t":"Xi'an","s":138,"entity_type":"entity","d":"capital of Shaanxi Province, China","a":["Xian","Xi An","Xi’an City","Xi’an, China","Sian","Hsian","Hsi'an","Singan","Singan-fu","Hsi-an","Hsi-an-fu","Xi'anfu","Xi'an Fu","Kenjanfu","Si-ngan-fu","Kenjan","Si-ngan","Quenzanfu","Quenzan","Si-ngan Fu","Chang-ngan","Khumdan","Khumdán","Kingchao-fu","Kingchao","Xianfu","Changan","Kansan","Quen-zan-fu","Quen-zan"]}
+{"q":"Q27293","t":"West Asia","s":138,"entity_type":"entity","d":"western region of Asia","a":["Southwestern Asia","Southwest Asia","Western Asia"]}
+{"q":"Q12518","t":"tower","s":138,"entity_type":"entity","d":"structure with height greater than width"}
+{"q":"Q38807","t":"Suva","s":138,"entity_type":"city","d":"capital city of Fiji"}
+{"q":"Q35355","t":"Sumer","s":138,"entity_type":"entity","d":"ancient Mesopotamian civilization from 5500 to 1800 BC","st":5500,"e":1900}
+{"q":"Q3932","t":"São Tomé","s":138,"entity_type":"city","d":"capital city of São Tomé and Príncipe","st":1485}
+{"q":"Q1226","t":"rutherfordium","s":138,"entity_type":"entity","d":"chemical element with symbol Rf and atomic number 104","a":["element 104","kurchatovium","Rf","Ku","unnilquadium","Unq"]}
+{"q":"Q647","t":"Rennes","s":138,"entity_type":"entity","d":"capital city of the region of Brittany, France","a":["Rennes, France","City of Rennes","Roazhon"]}
+{"q":"Q712378","t":"organ","s":138,"entity_type":"entity","d":"collection of tissues with similar functions","a":["organs","biological organ","body organ","organ of the body"]}
+{"q":"Q41421","t":"Michael Jordan","s":138,"entity_type":"person","d":"American basketball player and businessman (born 1963)","st":1963,"a":["Air Jordan","His Airness"]}
+{"q":"Q41502","t":"Henryk Sienkiewicz","s":138,"entity_type":"person","d":"Polish writer, novelist, journalist, philanthropist and Nobel Prize laureate (1846–1916)","st":1846,"e":1916}
+{"q":"Q1252","t":"hassium","s":138,"entity_type":"entity","d":"chemical element with symbol Hs and atomic number 108","a":["Hs","element 108","unniloctium","Uno"]}
+{"q":"Q12312","t":"Franklin Pierce","s":138,"entity_type":"person","d":"president of the United States from 1853 to 1857","st":1804,"e":1869,"a":["F. Pierce","President Pierce"]}
+{"q":"Q171497","t":"common sunflower","s":138,"entity_type":"taxon","d":"species of flowering plant in the family of Asteraceae","a":["Helianthus annuus","sunflower"]}
+{"q":"Q12888135","t":"candle","s":138,"entity_type":"entity","d":"solid block of wax with embedded wick, used as lighting","a":["candles"]}
+{"q":"Q4830453","t":"business","s":138,"entity_type":"entity","d":"organization undertaking commercial, industrial, or professional activity","a":["businesses"]}
+{"q":"Q359442","t":"Bernie Sanders","s":138,"entity_type":"person","d":"United States Senator from Vermont","st":1941,"a":["Sen. Bernie Sanders","Bernie","Bernard \"Bernie\" Sanders","Bernard Sanders","Senator Bernie Sanders","Senator Sanders"]}
+{"q":"Q30449","t":"Avril Lavigne","s":138,"entity_type":"person","d":"Canadian singer and songwriter (born 1984)","st":1984,"a":["Avril Ramona Lavigne"]}
+{"q":"Q12187","t":"antibiotic","s":138,"entity_type":"entity","d":"drug used in the treatment and prevention of bacterial infections","a":["antibacterial drug","anti-bacterial agent","antibacterial agent","anti-bacterial agents"]}
+{"q":"Q6694","t":"Alexander von Humboldt","s":138,"entity_type":"person","d":"Prussian geographer, naturalist and explorer (1769-1859)","st":1769,"e":1859,"a":["Friedrich Wilhelm Heinrich Alexander von Humboldt","Friedrich Heinrich Alexander von Humboldt","Alexander Freiherr von Humboldt","Alexander, Freiherr von Humboldt","Alexander Freiherr Von Humboldt","Humb.","Friedrich Heinrich Alex., Baron von Humboldt","Humboldt","Alexander von Freiherr Humboldt","M. de Humboldt","De Humboldt","Von Humboldt"]}
+{"q":"Q36341","t":"Ursus arctos","s":137,"entity_type":"taxon","d":"species of mammal","st":5000,"a":["grizzly bear","brown bear"]}
+{"q":"Q36947","t":"Salvador","s":137,"entity_type":"entity","d":"municipality of Bahia state, Brazil","st":1549,"a":["São Salvador da Bahia de Todos os Santos","Bahia"]}
+{"q":"Q27645","t":"Mikhail Bakunin","s":137,"entity_type":"person","d":"Russian revolutionary anarchist and philosopher (1814–1876)","st":1814,"e":1876,"a":["Michael Bakunin","Michail Alexandrovich Bakunin","A. M. Bakunin","Mikhail Aleksandrovich Bakunin","Mikhail Alexandrovich Bakunin","Bakunin"]}
+{"q":"Q1857","t":"lutetium","s":137,"entity_type":"entity","d":"chemical element with symbol Lu and atomic number 71","a":["Lu","element 71","71Lu","cassiopium","lutecium","cassiopeium"]}
+{"q":"Q37425","t":"knee","s":137,"entity_type":"entity","d":"region around the kneecap","a":["knee region"]}
+{"q":"Q360","t":"Julian Assange","s":137,"entity_type":"person","d":"Australian editor, publisher, and activist (born 1971)","st":1971,"a":["Julian Paul Assange","Assange","JulianAssange","Julian Paul Hawkins"]}
+{"q":"Q34105","t":"Hosni Mubarak","s":137,"entity_type":"person","d":"President of Egypt from 1981 to 2011","st":1928,"e":2020,"a":["Mubarak","Mobarak","Mohammed Hosni Mobarak","Muhammad Husni Mubarak","Muhammad Husni Saʿid Mubarak","Muhammad Hosni El Sayed Mubarak"]}
+{"q":"Q42156","t":"Henri Bergson","s":137,"entity_type":"person","d":"French philosopher (1859–1941)","st":1859,"e":1941,"a":["Henri-Louis Bergson","H. Bergson","Henry Bergson","Henri Louis Bergson","Berxon"]}
+{"q":"Q25265","t":"Felidae","s":137,"entity_type":"taxon","d":"family of mammals in the order of carnivorans","st":2500,"a":["felids","cat family","feline family","felid","cat"]}
+{"q":"Q41571","t":"epilepsy","s":137,"entity_type":"entity","d":"human neurological disease causing seizures","a":["epilepsy syndrome","epileptic syndrome","epileptiform","caducus morbus","morbus comitialis","Saint Valentine's malady","seizure disorder"]}
+{"q":"Q12284","t":"canal","s":137,"entity_type":"entity","d":"man-made channel for water","a":["canal for transporting water","canals"]}
+{"q":"Q37868","t":"algae","s":137,"entity_type":"entity","d":"group of organisms which mostly grow in water and can perform oxygenic photosynthesis","a":["alga","algal","algæ"]}
+{"q":"Q32043","t":"addition","s":137,"entity_type":"entity","d":"arithmetic operation","a":["adding","collecting","summing","summation","plus"]}
+{"q":"Q8089","t":"7th century","s":137,"entity_type":"entity","d":"century","st":601,"e":700,"a":["7th-century"]}
+{"q":"Q40904","t":"Werner Heisenberg","s":136,"entity_type":"person","d":"German theoretical physicist and nobel prize winner (1901–1976)","st":1901,"e":1976,"a":["Werner Karl Heisenberg","Heisenberg","Werner K. Heisenberg"]}
+{"q":"Q159610","t":"Vlorë","s":136,"entity_type":"city","d":"city in Albania","a":["Vlora","Vlore","Avlona"]}
+{"q":"Q1189","t":"Usain Bolt","s":136,"entity_type":"person","d":"Jamaican sprinter","st":1986}
+{"q":"Q47478","t":"Swami Vivekananda","s":136,"entity_type":"person","d":"Indian Hindu monk and philosopher (1863–1902)","st":1863,"e":1902,"a":["Vivekananda","Narendranath Datta","Narendra Nath Datta"]}
+{"q":"Q27394","t":"Southern Africa","s":136,"entity_type":"entity","d":"southernmost region of Africa"}
+{"q":"Q901","t":"scientist","s":136,"entity_type":"entity","d":"person who use scientific methods to study in an area of interest","a":["natural philosopher"]}
+{"q":"Q38555","t":"Santa Fe","s":136,"entity_type":"entity","d":"capital city of New Mexico, United States","st":1610,"a":["White Shell Water Place","Santa Fe, New Mexico","Royal City of the Holy Faith of St. Francis of Assisi","O gah Po'geh","SFNM","Santa Fé","Santa Fe, NM","Oghá P'o'oge","Po-o-ge","Kuapooge","Apoga","Apoge","Cua P'Hoge","Cua-P'ho-o-ge","Cua-po-oge","Cua-Po-o-que","Kua-p'o-o-ge","Oga P'Hoge","Og-a-p'o-ge","Poga","Poge","Yootó"]}
+{"q":"Q22424","t":"Punjab","s":136,"entity_type":"entity","d":"Indian state","st":1956,"a":["Land of Five Rivers","Punjab, India","Punjab State","East Punjab","IN-PB"]}
+{"q":"Q241248","t":"Orhan Pamuk","s":136,"entity_type":"person","d":"Turkish novelist, academic and Nobel laureate (born 1952)","st":1952,"a":["Pamuk","Ferit Orhan Pamuk"]}
+{"q":"Q898","t":"Omsk","s":136,"entity_type":"entity","d":"city in Russia","st":1716}
+{"q":"Q25357","t":"Northern Raven","s":136,"entity_type":"taxon","d":"species of bird","a":["raven","Corvus corax","western raven","common Raven","corax raven"]}
+{"q":"Q2537","t":"natural satellite","s":136,"entity_type":"entity","d":"celestial body that orbits a planet or other smaller body in turn directly orbiting a star","a":["moon","satellite","secondary planet"]}
+{"q":"Q37876","t":"Natalie Portman","s":136,"entity_type":"person","d":"Israeli-American actress (born 1981)","st":1981,"a":["Neta-Lee Herschlag","Natalie Hershlag","Nat","Natalie Herschlag"]}
+{"q":"Q5600","t":"Mimar Sinan","s":136,"entity_type":"person","d":"16th-century Ottoman chief architect and civil engineer","st":1490,"e":1588,"a":["Sinan ibn Abd al-Mannan","Sinan ii","Sinan Abdülmennan Aga","Koca Sinan","Sinan Abdülmennan A$01ga","Sinan.","Sinan","Koca Mimar Sinan"]}
+{"q":"Q9255","t":"Kyrgyz","s":136,"entity_type":"entity","d":"Kipchak Turkic language of Central Asia","a":["Kirghiz language","Kirgiz language","Kirgiz","Kirghiz","Kyrgyz language"]}
+{"q":"Q2073","t":"Komi Republic","s":136,"entity_type":"entity","d":"first-level administrative division of Russia","st":1991,"a":["Republic of Komi","Komi"]}
+{"q":"Q8331","t":"fox","s":136,"entity_type":"entity","d":"small to medium-sized omnivorous mammal belonging to the family Canidae","a":["foxes","vixen"]}
+{"q":"Q1892","t":"einsteinium","s":136,"entity_type":"entity","d":"chemical element with symbol Es and atomic number 99","a":["Es","element 99","99Es"]}
+{"q":"Q2096","t":"Edmonton","s":136,"entity_type":"entity","d":"capital city of the province of Alberta, Canada","st":1795,"a":["Edmonton, Alberta","Edmonton, AB","City of Edmonton"]}
+{"q":"Q2199","t":"dwarf planet","s":136,"entity_type":"entity","d":"planetary-mass object in hydrostatic equilibrium which is not a satellite of another one, but which has still not significantly cleared its neighborhood to dominate it gravitationally and maintain its cohesion","a":["dwarf planets"]}
+{"q":"Q40722","t":"Dilma Rousseff","s":136,"entity_type":"person","d":"36th President of Brazil (2011-2016), 3rd President of the New Development Bank (BRICS)","st":1947,"a":["Dilma Vana Rousseff","Dilma Larpsseff"]}
+{"q":"Q5383","t":"David Bowie","s":136,"entity_type":"person","d":"English musician and actor (1947–2016)","st":1947,"e":2016,"a":["David Robert Jones","David Jones","Davy Jones","Thin White Duke","Halloween Jack"]}
+{"q":"Q40089","t":"brick","s":136,"entity_type":"entity","d":"block or a single unit of a ceramic material used in masonry construction","a":["bricks"]}
+{"q":"Q8083","t":"9th century","s":136,"entity_type":"entity","d":"century","st":801,"e":900,"a":["9th-century"]}
+{"q":"Q8101","t":"3rd century","s":136,"entity_type":"entity","d":"century","st":201,"e":300,"a":["3rd-century"]}
+{"q":"Q34389","t":"Whitney Houston","s":135,"entity_type":"person","d":"American singer, actress, and film producer (1963–2012)","st":1963,"e":2012,"a":["Whitney Elizabeth Houston"]}
+{"q":"Q803","t":"Utrecht","s":135,"entity_type":"entity","d":"municipality in the Netherlands and capital city of the province of Utrecht","a":["Utreg","Utrecht (city)"]}
+{"q":"Q960","t":"Tuva","s":135,"entity_type":"entity","d":"Republic and federal subject of Russia","st":1944,"a":["Republic of Tuva","Republic of Tyva","Touva"]}
+{"q":"Q40302","t":"The Fox and the Hound","s":135,"entity_type":"entity","d":"1981 animated film directed by Art Stevens, Ted Berman and Richard Rich","a":["Fox and the Hound"]}
+{"q":"Q134958","t":"Taras Shevchenko","s":135,"entity_type":"person","d":"Ukrainian poet and artist (1814–1861)","st":1814,"e":1861,"a":["Taras Hryhorovych Shevchenko","Taras. Shevchenko","Taras Ševčenko","Taras Grigor'yevich Shevchenko","Grigor'yevich Shevchenko","Taras Hryhorovyč Ševčenko","T. Shevchenko","Taras Grigorjevič Ševčenko","Taras Grigor'evič Ševčenko","Tarass Grigorjewitsch Schewtschenko","T.Sh","K.Darmohrai","Kobzar Darmohrai","Perebendya"]}
+{"q":"Q27449","t":"Southern Europe","s":135,"entity_type":"entity","d":"southern region of the European continent","a":["Europe, Southern","Mediterranean Europe"]}
+{"q":"Q37681","t":"silk","s":135,"entity_type":"entity","d":"fine, lustrous, natural fiber produced by the larvae of various silk moths, especially the species Bombyx mori","a":["silk fiber"]}
+{"q":"Q1809","t":"promethium","s":135,"entity_type":"entity","d":"chemical element with symbol Pm and atomic number 61","a":["Pm","element 61","₆₁Pm"]}
+{"q":"Q13188","t":"pomegranate","s":135,"entity_type":"taxon","d":"fruit-bearing deciduous shrub","a":["pomegranate tree","anar"]}
+{"q":"Q39546","t":"physical tool","s":135,"entity_type":"entity","d":"physical item that can be used to achieve a goal","a":["instrument","implement","tool"]}
+{"q":"Q1413","t":"Nero","s":135,"entity_type":"person","d":"fifth and last Roman Emperor of Julio-Claudian dynasty (54–68)","st":37,"e":68,"a":["Emperor of Rome Nero","Nero Claudius Drusus Germanicus","Nero Claudius Caesar Drusus Germanicus","Nero Claudius Drusus Germanicus Caesar","Nero Claudius Caesar Augustus Germanicus"]}
+{"q":"Q9192","t":"Mandarin","s":135,"entity_type":"entity","d":"major branch of Chinese spoken across most of northern and southwestern China","a":["Mandarin Chinese","Guanhua"]}
+{"q":"Q580","t":"Łódź","s":135,"entity_type":"entity","d":"city in Łódź Voivodeship in central Poland","st":1423,"a":["Lodz","Łodzi","Lodzh","Lodsch","Litzmannstadt","Lodž","Lodz'"]}
+{"q":"Q13987","t":"Kyushu","s":135,"entity_type":"entity","d":"third largest island of Japan","a":["Kyūshū","Kyûshû","Kyushu Island","Kyushu I.","Kyushu Is.","Kiusiu"]}
+{"q":"Q37577","t":"John Calvin","s":135,"entity_type":"person","d":"French Protestant reformer (1509-1564)","st":1509,"e":1564,"a":["Jehan Cauvin","Calvin","Jean Calvin","Johannes Calvinus","Ioannes Calvinus","Cauvin"]}
+{"q":"Q28892","t":"Islamic calendar","s":135,"entity_type":"entity","d":"lunar calendar used by Muslims to determine religious observances","a":["Arabic calendar","Muslim calendar","lunar Hijri calendar","Arab calendar","Hijri calendar"]}
+{"q":"Q34726","t":"Greek mythology","s":135,"entity_type":"entity","d":"myths of ancient Greece","a":["Greek myths","ancient Greek mythology"]}
+{"q":"Q3816","t":"George Sand","s":135,"entity_type":"person","d":"French novelist and memoirist (1804–1876)","st":1804,"e":1876,"a":["Amantine Lucile Aurore Dupin","Amandine Lucile Aurore Dupin","Baroness Dudevant","Jules Sand","Lucie Dudevant","Aurore Amantine Lucile Dupin","Aurore Amantine Lucile Sand","Amandine-Aaurore-Lucile Dupin","George nee Dupin Sand","Mrs. George Sand","Georges Sand","Amandine-Aurore-Lucile Dudevant","Amandine-Aaurore-Lucile Dudevant","Lucile Aurore Dupin","A.A.L. Dudevant-Dupin"]}
+{"q":"Q1832","t":"gadolinium","s":135,"entity_type":"entity","d":"chemical element with symbol H and atomic number 64","a":["Gd","element 64","64Gd","Gad","gadolininum","gadolinum"]}
+{"q":"Q11652","t":"frequency","s":135,"entity_type":"entity","d":"number of occurrences or cycles per time","a":["temporal frequency","ordinary frequency"]}
+{"q":"Q25307","t":"Eurasian Magpie","s":135,"entity_type":"taxon","d":"species of bird","a":["Pica pica","common magpie","magpie"]}
+{"q":"Q1232","t":"dubnium","s":135,"entity_type":"entity","d":"chemical element with symbol Db and atomic number 105","a":["Db","element 105","hahnium","unnilpentium","Unp"]}
+{"q":"Q34735","t":"compass","s":135,"entity_type":"entity","d":"instrument that indicated direction relative to the magneticc field of the Earth","a":["navigational compasses","navigational compass"]}
