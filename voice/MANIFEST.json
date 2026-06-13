@@ -1,0 +1,44 @@
+{
+  "assetVersion": "local-coreml-v1",
+  "compatibilityId": "pyannote-embedding-v1:coreml-v1",
+  "modelId": "pyannote-embedding-v1",
+  "realizedModel": "speechbrain/spkrec-ecapa-voxceleb",
+  "dimension": 192,
+  "sampleRateHz": 16000,
+  "windowMs": 2500,
+  "windowSamples": 40000,
+  "inputFeature": "audio",
+  "outputFeature": "embedding",
+  "normalization": "pcm-float32-mono+l2",
+  "assets": {
+    "coreml": {
+      "file": "speaker-embedding.mlpackage.zip",
+      "format": "mlprogram-fp16-zip",
+      "backendId": "coreml-fp16-anepreferred-v1",
+      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.mlpackage.zip",
+      "sha256": "f48173fd428dbf4a6f6867c3722122512c24208ab7fb9dc14bf31a5c74783cc2",
+      "bytes": 39099604,
+      "unpack": "unzip -> speaker-embedding.mlpackage -> MLModel.compileModel(at:)"
+    },
+    "canary": {
+      "file": "speaker-embedding.canary.json",
+      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.canary.json",
+      "sha256": "04743d0d982971eda6ad76f34d3783b9aa7e7685bc0eeb0c0dbae044d4c18dbc",
+      "selfCheckThreshold": 0.999
+    },
+    "onnx": {
+      "file": "speaker-embedding.onnx",
+      "format": "onnx-fp32",
+      "backendId": "server-onnx-fp32-v1",
+      "url": "https://github.com/parsomnia/parsomnia-assets/releases/download/voice-local-coreml-v1/speaker-embedding.onnx",
+      "sha256": "d6b463d50dd593be5953fae12527a0733fda7d67fcdab2034d5e2e5706e984a2",
+      "bytes": 84171225,
+      "note": "Server backend. Hosted as a GitHub Release asset (>50 MB)."
+    }
+  },
+  "parity": {
+    "policyVersion": "parity-eval-v1",
+    "coremlVsOnnxCosine": 0.999989,
+    "tolerance": 0.995
+  }
+}
