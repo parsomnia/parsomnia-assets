@@ -12,19 +12,29 @@
   "normalization": "pcm-float32-mono+l2",
   "assets": {
     "coreml": {
+      "file": "speaker-embedding.mlmodel",
+      "format": "neuralnetwork-fp16",
+      "backendId": "coreml-fp16-anepreferred-v1",
+      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.mlmodel",
+      "sha256": "7e99594fc5ca4a3a9eebba69986e4cb8e1bdb6e9d6889dc0609fa80b79c92963",
+      "bytes": 41986189,
+      "load": "download -> MLModel.compileModel(at:) -> load (single file, no unzip)"
+    },
+    "coremlPackage": {
       "file": "speaker-embedding.mlpackage.zip",
       "format": "mlprogram-fp16-zip",
       "backendId": "coreml-fp16-anepreferred-v1",
       "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.mlpackage.zip",
       "sha256": "f48173fd428dbf4a6f6867c3722122512c24208ab7fb9dc14bf31a5c74783cc2",
       "bytes": 39099604,
-      "unpack": "unzip -> speaker-embedding.mlpackage -> MLModel.compileModel(at:)"
+      "note": "Provenance / future mlprogram path. Device ships the single-file .mlmodel above."
     },
     "canary": {
       "file": "speaker-embedding.canary.json",
       "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.canary.json",
-      "sha256": "04743d0d982971eda6ad76f34d3783b9aa7e7685bc0eeb0c0dbae044d4c18dbc",
-      "selfCheckThreshold": 0.999
+      "sha256": "488de89bd409910dcf9e5356724ee1f35c6482a2578fbdf4386db10284e3dc88",
+      "selfCheckThreshold": 0.999,
+      "note": "Reference vector produced by the shipped .mlmodel."
     },
     "onnx": {
       "file": "speaker-embedding.onnx",
@@ -38,7 +48,7 @@
   },
   "parity": {
     "policyVersion": "parity-eval-v1",
-    "coremlVsOnnxCosine": 0.999989,
+    "deviceVsServerCosine": 0.999994,
     "tolerance": 0.995
   }
 }
