@@ -1,9 +1,9 @@
 {
-  "assetVersion": "local-coreml-v1",
-  "compatibilityId": "pyannote-embedding-v1:coreml-v1",
-  "modelId": "pyannote-embedding-v1",
-  "realizedModel": "speechbrain/spkrec-ecapa-voxceleb",
-  "dimension": 192,
+  "assetVersion": "wespeaker-coreml-v1",
+  "compatibilityId": "wespeaker-resnet34-lm-v1:coreml-v1",
+  "modelId": "wespeaker-resnet34-lm-v1",
+  "realizedModel": "pyannote/wespeaker-voxceleb-resnet34-LM",
+  "dimension": 256,
   "sampleRateHz": 16000,
   "windowMs": 2500,
   "windowSamples": 40000,
@@ -11,44 +11,51 @@
   "outputFeature": "embedding",
   "normalization": "pcm-float32-mono+l2",
   "assets": {
-    "coreml": {
-      "file": "speaker-embedding.mlmodel",
-      "format": "neuralnetwork-fp16",
-      "backendId": "coreml-fp16-anepreferred-v1",
-      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.mlmodel",
-      "sha256": "7e99594fc5ca4a3a9eebba69986e4cb8e1bdb6e9d6889dc0609fa80b79c92963",
-      "bytes": 41986189,
-      "load": "download -> MLModel.compileModel(at:) -> load (single file, no unzip)"
-    },
     "coremlPackage": {
-      "file": "speaker-embedding.mlpackage.zip",
-      "format": "mlprogram-fp16-zip",
+      "format": "mlprogram-fp16-selective",
       "backendId": "coreml-fp16-anepreferred-v1",
-      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.mlpackage.zip",
-      "sha256": "f48173fd428dbf4a6f6867c3722122512c24208ab7fb9dc14bf31a5c74783cc2",
-      "bytes": 39099604,
-      "note": "Provenance / future mlprogram path. Device ships the single-file .mlmodel above."
+      "baseUrl": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding-wespeaker.mlpackage",
+      "files": [
+        {
+          "path": "Manifest.json",
+          "sha256": "d1d160d9ac0c63c9bb7bc50ed265ce824b539d79abdd405ed204b7cf8e61e996",
+          "bytes": 617
+        },
+        {
+          "path": "Data/com.apple.CoreML/model.mlmodel",
+          "sha256": "a40fe0bd887f2bb97cef85a71a16d1d077d4dfcdc14880fd6f467746874e4a61",
+          "bytes": 338341
+        },
+        {
+          "path": "Data/com.apple.CoreML/weights/weight.bin",
+          "sha256": "7780c00d78a613723543a8c3050da6837d1db14ab44ba7dc895dc79d9d00cb5d",
+          "bytes": 17025216
+        }
+      ],
+      "load": "download the listed files into a reconstructed .mlpackage dir -> MLModel.compileModel(at:) -> load (iOS has no public unzip)"
     },
     "canary": {
-      "file": "speaker-embedding.canary.json",
-      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding.canary.json",
-      "sha256": "488de89bd409910dcf9e5356724ee1f35c6482a2578fbdf4386db10284e3dc88",
+      "file": "speaker-embedding-wespeaker.canary.json",
+      "url": "https://raw.githubusercontent.com/parsomnia/parsomnia-assets/main/voice/speaker-embedding-wespeaker.canary.json",
+      "sha256": "45a3cfe46d2c7ec9897e5c0767a9d057a1a4032cc212de37ea103925cac16108",
+      "bytes": 112578,
       "selfCheckThreshold": 0.999,
-      "note": "Reference vector produced by the shipped .mlmodel."
+      "note": "Reference vector produced by the shipped device Core ML fp16 model."
     },
     "onnx": {
-      "file": "speaker-embedding.onnx",
+      "file": "voxceleb_resnet34_LM.onnx",
       "format": "onnx-fp32",
       "backendId": "server-onnx-fp32-v1",
-      "url": "https://github.com/parsomnia/parsomnia-assets/releases/download/voice-local-coreml-v1/speaker-embedding.onnx",
-      "sha256": "d6b463d50dd593be5953fae12527a0733fda7d67fcdab2034d5e2e5706e984a2",
-      "bytes": 84171225,
-      "note": "Server backend. Hosted as a GitHub Release asset (>50 MB)."
+      "url": "https://github.com/parsomnia/parsomnia-assets/releases/download/voice-wespeaker-coreml-v1/voxceleb_resnet34_LM.onnx",
+      "sha256": "7bb2f06e9df17cdf1ef14ee8a15ab08ed28e8d0ef5054ee135741560df2ec068",
+      "bytes": 26530309,
+      "note": "Server backend (feats-in WeSpeaker). Hosted as a GitHub Release asset."
     }
   },
   "parity": {
     "policyVersion": "parity-eval-v1",
-    "deviceVsServerCosine": 0.999994,
+    "deviceCoreMLCosine": 0.999978,
+    "deviceVsServerCosine": 0.999995,
     "tolerance": 0.995
   }
 }

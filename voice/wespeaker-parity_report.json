@@ -1,0 +1,14 @@
+{
+  "dimension": 256,
+  "compatibilityId": "wespeaker-resnet34-lm-v1:coreml-v1",
+  "precision": "fp16",
+  "frontEndScale": 32768.0,
+  "computeUnits": "ALL",
+  "modelFile": "speaker-embedding-wespeaker.mlpackage",
+  "modelSizeMB": 17.4,
+  "windowSamples": 40000,
+  "torchParityMinCosine": 0.9999999653525822,
+  "coreMLParityMinCosine": 0.9999775188337883,
+  "parityWindows": 10,
+  "source": "Wespeaker/wespeaker-voxceleb-resnet34-LM (onnx2torch) + kaldi-fbank front-end"
+}

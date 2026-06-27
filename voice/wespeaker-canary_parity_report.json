@@ -1,0 +1,13 @@
+{
+  "parityPolicyVersion": "parity-eval-v1",
+  "parityTolerance": 0.995,
+  "selfCheckThreshold": 0.999,
+  "compatibilityId": "wespeaker-resnet34-lm-v1:coreml-v1",
+  "dimension": 256,
+  "precision": "fp32",
+  "deviceModelFile": "speaker-embedding-wespeaker.mlpackage",
+  "coremlVsServerOnnxCosine": 0.9999946578942103,
+  "deviceBackendId": "coreml-fp16-anepreferred-v1",
+  "serverBackendId": "server-onnx-fp32-v1",
+  "note": "Local CPU Core ML (fp32) vs WeSpeaker feats-in ONNX (fp32) + kaldi fbank. Both take raw PCM; the only delta is DFT-vs-FFT rounding in the in-graph front-end. On-device drift is caught separately by the bundled canary self-check."
+}
